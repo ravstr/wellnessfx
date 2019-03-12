@@ -1,0 +1,1031 @@
+Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
+12/7/13,Body Mass Index,Measure of weight to height,21.8,Kg/m2,,
+12/7/13,Weight,Your weight,127.0,pounds,,
+1/4/14,% Basophils,Part of WBC differential,0.5,%,,Quest
+1/4/14,% Basophils,Part of WBC differential,0.5,%,,Quest
+1/4/14,% Eosinophils,Part of WBC differential,3.5,%,,Quest
+1/4/14,% Eosinophils,Part of WBC differential,3.5,%,,Quest
+1/4/14,% Lymphocytes,Part of WBC differential,32.6,%,,Quest
+1/4/14,% Lymphocytes,Part of WBC differential,32.6,%,,Quest
+1/4/14,% Monocytes,Part of WBC differential,8.1,%,,Quest
+1/4/14,% Monocytes,Part of WBC differential,8.1,%,,Quest
+1/4/14,% Neutrophil,Part of WBC differential,55.3,%,,Quest
+1/4/14,% Neutrophil,Part of WBC differential,55.3,%,,Quest
+1/4/14,25-Hydroxy Vitamin D,Precursor to vitamin D,9.0,ng/mL,30-100,Quest
+1/4/14,25-Hydroxy Vitamin D,Precursor to vitamin D,9.0,ng/mL,30-100,Quest
+1/4/14,25-hydroxy Vitamin D2,Vitamin D found in plants and supplements,4.0,ng/mL,See Below,Quest
+1/4/14,25-hydroxy Vitamin D2,Vitamin D found in plants and supplements,4.0,ng/mL,See Below,Quest
+1/4/14,25-hydroxy Vitamin D3,Vitamin D from sunlight and meat,9.0,ng/mL,See Below,Quest
+1/4/14,25-hydroxy Vitamin D3,Vitamin D from sunlight and meat,9.0,ng/mL,See Below,Quest
+1/4/14,A/G Ratio,"Proportion, albumin/globulin",1.7,,1.0-2.5,Quest
+1/4/14,A/G Ratio,"Proportion, albumin/globulin",1.7,,1.0-2.5,Quest
+1/4/14,ALP,Alkaline Phosphatase,57.0,IU/L,40-115,Quest
+1/4/14,ALP,Alkaline Phosphatase,57.0,IU/L,40-115,Quest
+1/4/14,ALT / SGPT,Alanine aminotransferase,25.0,IU/L,9-46,Quest
+1/4/14,ALT / SGPT,Alanine aminotransferase,25.0,IU/L,9-46,Quest
+1/4/14,ALT / SGPT,Alanine aminotransferase,25.0,IU/L,9-46,Quest
+1/4/14,ALT / SGPT,Alanine aminotransferase,25.0,IU/L,9-46,Quest
+1/4/14,AST / SGOT,Aspartate aminotransferase,24.0,IU/L,10-40,Quest
+1/4/14,AST / SGOT,Aspartate aminotransferase,24.0,IU/L,10-40,Quest
+1/4/14,AST / SGOT,Aspartate aminotransferase,24.0,IU/L,10-40,Quest
+1/4/14,AST / SGOT,Aspartate aminotransferase,24.0,IU/L,10-40,Quest
+1/4/14,Albumin,Type of protein in blood,4.8,g/dL,3.6-5.1,Quest
+1/4/14,Albumin,Type of protein in blood,4.8,g/dL,3.6-5.1,Quest
+1/4/14,Apo A1,"Protein in HDL (""Good"") Cholesterol",141.0,mg/dL,94-176,Quest
+1/4/14,Apo A1,"Protein in HDL (""Good"") Cholesterol",141.0,mg/dL,94-176,Quest
+1/4/14,Apo B,"Protein in LDL (""Bad"") Cholesterol",96.0,mg/dL,52-109,Quest
+1/4/14,Apo B,"Protein in LDL (""Bad"") Cholesterol",96.0,mg/dL,52-109,Quest
+1/4/14,Arachidonic acid,Omega-6 fatty acid,0.6,%,0.3-2.3,Quest
+1/4/14,BUN,Blood Urea Nitrogen,16.0,mg/dL,7-25,Quest
+1/4/14,BUN,Blood Urea Nitrogen,16.0,mg/dL,7-25,Quest
+1/4/14,Basophil (absolute),Calculation of WBC type,0.023,x10E3/?L,0-200,Quest
+1/4/14,Basophil (absolute),Calculation of WBC type,0.023,x10E3/?L,0-200,Quest
+1/4/14,Bilirubin (total),Made by the liver to help digest fat.,0.5,mg/dL,0.2-1.2,Quest
+1/4/14,Bilirubin (total),Made by the liver to help digest fat.,0.5,mg/dL,0.2-1.2,Quest
+1/4/14,CO2,Carbon dioxide in blood,26.0,mmol/L,19-30,Quest
+1/4/14,CO2,Carbon dioxide in blood,26.0,mmol/L,19-30,Quest
+1/4/14,Calcium,Blood and Bone Mineral,10.0,mg/dL,8.6-10.3,Quest
+1/4/14,Calcium,Blood and Bone Mineral,10.0,mg/dL,8.6-10.3,Quest
+1/4/14,Chloride,Balances other electrolytes,102.0,mmol/L,98-110,Quest
+1/4/14,Chloride,Balances other electrolytes,102.0,mmol/L,98-110,Quest
+1/4/14,Cortisol,Primary stress hormone,16.9,?g/dL,,Quest
+1/4/14,Cortisol,Primary stress hormone,16.9,?g/dL,,Quest
+1/4/14,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+1/4/14,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+1/4/14,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+1/4/14,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,DHEA-S,Adrenal Hormone,412.0,?g/dL,110-370,Quest
+1/4/14,Docosahexaenoic acid (DHA),Omega-3 fatty acid,7.6,%,0.4-3.0,Quest
+1/4/14,EPA:AA Ratio,"Ratio of two fatty acids ",0.6,,0.2-7.0,Quest
+1/4/14,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,1.0,%,<2.3,Quest
+1/4/14,Eosinophil (absolute),Calculation of WBC type,0.158,x10E3/?L,15-500,Quest
+1/4/14,Eosinophil (absolute),Calculation of WBC type,0.158,x10E3/?L,15-500,Quest
+1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
+1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
+1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
+1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
+1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
+1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
+1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
+1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
+1/4/14,Ferritin,Iron storage protein,74.0,ng/mL,20-345,Quest
+1/4/14,Ferritin,Iron storage protein,74.0,ng/mL,20-345,Quest
+1/4/14,Ferritin,Iron storage protein,74.0,ng/mL,20-345,Quest
+1/4/14,Ferritin,Iron storage protein,74.0,ng/mL,20-345,Quest
+1/4/14,Fibrinogen,Inflammation marker important in blood clotting.,254.0,mg/dL,175-425,Quest
+1/4/14,Fibrinogen,Inflammation marker important in blood clotting.,254.0,mg/dL,175-425,Quest
+1/4/14,Folate,Folic Acid,13.7,ng/mL,,Quest
+1/4/14,Folate,Folic Acid,13.7,ng/mL,,Quest
+1/4/14,"Free Fatty Acids ",Fatty acids,0.57,mmol/L,0.07-0.88,Quest
+1/4/14,"Free Fatty Acids ",Fatty acids,0.57,mmol/L,0.07-0.88,Quest
+1/4/14,Free T3,Available T3,3.1,pg/mL,2.3-4.2,Quest
+1/4/14,Free T3,Available T3,3.1,pg/mL,2.3-4.2,Quest
+1/4/14,Free T4,Available T4,1.4,ng/dL,0.8-1.8,Quest
+1/4/14,Free T4,Available T4,1.4,ng/dL,0.8-1.8,Quest
+1/4/14,Free Testosterone,Active Unbound Testosterone,168.7,pg/mL,35.0-155.0,Quest
+1/4/14,Free Testosterone,Active Unbound Testosterone,168.7,pg/mL,35.0-155.0,Quest
+1/4/14,Free Testosterone,Active Unbound Testosterone,168.7,pg/mL,35.0-155.0,Quest
+1/4/14,Free Testosterone,Active Unbound Testosterone,168.7,pg/mL,35.0-155.0,Quest
+1/4/14,Free Thyroxine Index,A Thyroxine Index,3.1,,1.4-3.8,Quest
+1/4/14,Free Thyroxine Index,A Thyroxine Index,3.1,,1.4-3.8,Quest
+1/4/14,Globulin,Immune protein,2.8,g/dL,1.9-3.7,Quest
+1/4/14,Globulin,Immune protein,2.8,g/dL,1.9-3.7,Quest
+1/4/14,Glucose,Blood Sugar,81.0,mg/dL,65-99,Quest
+1/4/14,Glucose,Blood Sugar,81.0,mg/dL,65-99,Quest
+1/4/14,HDL,"""Good"" Cholesterol",59.0,mg/dL,> OR = 40,Quest
+1/4/14,HDL,"""Good"" Cholesterol",59.0,mg/dL,> OR = 40,Quest
+1/4/14,HOMA-IR SCORE,Predicting risk of insulin resistance and diabetes,0.4,,,
+1/4/14,Hematocrit,Fraction of red blood cells,45.7,%,38.5-50.0,Quest
+1/4/14,Hematocrit,Fraction of red blood cells,45.7,%,38.5-50.0,Quest
+1/4/14,Hematocrit,Fraction of red blood cells,45.7,%,38.5-50.0,Quest
+1/4/14,Hematocrit,Fraction of red blood cells,45.7,%,38.5-50.0,Quest
+1/4/14,Hemoglobin,Protein in red blood cells,14.9,g/dL,13.2-17.1,Quest
+1/4/14,Hemoglobin,Protein in red blood cells,14.9,g/dL,13.2-17.1,Quest
+1/4/14,Hemoglobin,Protein in red blood cells,14.9,g/dL,13.2-17.1,Quest
+1/4/14,Hemoglobin,Protein in red blood cells,14.9,g/dL,13.2-17.1,Quest
+1/4/14,Hemoglobin A1c (HbA1c),Average blood sugar level,5.5,%,<5.7,Quest
+1/4/14,Hemoglobin A1c (HbA1c),Average blood sugar level,5.5,%,<5.7,Quest
+1/4/14,Homocysteine,Inflammation marker,13.9,?mol/L,<11.4,Quest
+1/4/14,Homocysteine,Inflammation marker,13.9,?mol/L,<11.4,Quest
+1/4/14,Insulin,Blood sugar storage hormone,2.0,mIU/L,<23,Quest
+1/4/14,Insulin,Blood sugar storage hormone,2.0,mIU/L,<23,Quest
+1/4/14,Insulin-Like Growth Factor I,A Measure of Growth Hormone,204.0,ng/mL,53-331,Quest
+1/4/14,Insulin-Like Growth Factor I,A Measure of Growth Hormone,204.0,ng/mL,53-331,Quest
+1/4/14,Iron (serum),Iron in liquid part of blood,90.0,?g/dL,45-170,Quest
+1/4/14,Iron (serum),Iron in liquid part of blood,90.0,?g/dL,45-170,Quest
+1/4/14,Iron Saturation,The percent of Iron transport protein bound to Iron,25.0,%,20-50,Quest
+1/4/14,Iron Saturation,The percent of Iron transport protein bound to Iron,25.0,%,20-50,Quest
+1/4/14,LDL,Less Healthy Low-Density Lipoprotein,136.0,mg/dL,<130,Quest
+1/4/14,LDL,Less Healthy Low-Density Lipoprotein,136.0,mg/dL,<130,Quest
+1/4/14,Lp(a),Different Form of LDL,35.0,nmol/L,<75,Quest
+1/4/14,Lp(a),Different Form of LDL,35.0,nmol/L,<75,Quest
+1/4/14,Lp-PLA2,Marker of Inflamed Vessels,285.0,ng/mL,81-259,Quest
+1/4/14,Lp-PLA2,Marker of Inflamed Vessels,285.0,ng/mL,81-259,Quest
+1/4/14,Lp-PLA2,Marker of Inflamed Vessels,285.0,ng/mL,81-259,Quest
+1/4/14,Lp-PLA2,Marker of Inflamed Vessels,285.0,ng/mL,81-259,Quest
+1/4/14,Luteinizing Hormone (LH),Sex Hormone,4.9,mIU/mL,1.5-9.3,Quest
+1/4/14,Luteinizing Hormone (LH),Sex Hormone,4.9,mIU/mL,1.5-9.3,Quest
+1/4/14,Luteinizing Hormone (LH),Sex Hormone,4.9,mIU/mL,1.5-9.3,Quest
+1/4/14,Luteinizing Hormone (LH),Sex Hormone,4.9,mIU/mL,1.5-9.3,Quest
+1/4/14,Lymphocyte Count (absolute),Calculation of WBC type,1.467,x10E3/?L,850-3900,Quest
+1/4/14,Lymphocyte Count (absolute),Calculation of WBC type,1.467,x10E3/?L,850-3900,Quest
+1/4/14,MCH,Mean cell hemoglobin,30.8,pg,27.0-33.0,Quest
+1/4/14,MCH,Mean cell hemoglobin,30.8,pg,27.0-33.0,Quest
+1/4/14,MCHC,RBC hemoglobin concentration,32.7,g/dL,32.0-36.0,Quest
+1/4/14,MCHC,RBC hemoglobin concentration,32.7,g/dL,32.0-36.0,Quest
+1/4/14,MCV,Mean corpuscular volume,94.3,fL,80.0-100.0,Quest
+1/4/14,MCV,Mean corpuscular volume,94.3,fL,80.0-100.0,Quest
+1/4/14,Mean Platelet Volume (MPV),Average platelet size,9.4,fL,7.5-11.5,Quest
+1/4/14,Mean Platelet Volume (MPV),Average platelet size,9.4,fL,7.5-11.5,Quest
+1/4/14,Monocytes (absolute),type of white blood cell,0.365,x10E3/?L,200-950,Quest
+1/4/14,Monocytes (absolute),type of white blood cell,0.365,x10E3/?L,200-950,Quest
+1/4/14,Neutrophil Count (ANC),Type of white blood cell,2.489,x10E3/?L,1500-7800,Quest
+1/4/14,Neutrophil Count (ANC),Type of white blood cell,2.489,x10E3/?L,1500-7800,Quest
+1/4/14,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,145.0,mg/dL,,Quest
+1/4/14,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,145.0,mg/dL,,Quest
+1/4/14,Omega Index,Amount of omega-3 fatty acids,TNP,%,,Quest
+1/4/14,Omega Index,Amount of omega-3 fatty acids,8.5,%,0.5-6.4,Quest
+1/4/14,Omega Risk,Risk based on omega profile,Low,,,Quest
+1/4/14,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,2.8,,1.3-12.0,Quest
+1/4/14,Platelet Count,Clot-forming cell fragments,260.0,x10E3/?L,140-400,Quest
+1/4/14,Platelet Count,Clot-forming cell fragments,260.0,x10E3/?L,140-400,Quest
+1/4/14,Potassium,"An electrolyte inside cells ",4.1,mmol/L,3.5-5.3,Quest
+1/4/14,Potassium,"An electrolyte inside cells ",4.1,mmol/L,3.5-5.3,Quest
+1/4/14,Progesterone,,0.8,ng/mL,<1.4,Quest
+1/4/14,Progesterone,,0.8,ng/mL,<1.4,Quest
+1/4/14,Progesterone,,0.8,ng/mL,<1.4,Quest
+1/4/14,Progesterone,,0.8,ng/mL,<1.4,Quest
+1/4/14,RBC,Red blood cell count,4.85,x10E6/?L,4.20-5.80,Quest
+1/4/14,RBC,Red blood cell count,4.85,x10E6/?L,4.20-5.80,Quest
+1/4/14,RBC,Red blood cell count,4.85,x10E6/?L,4.20-5.80,Quest
+1/4/14,RBC,Red blood cell count,4.85,x10E6/?L,4.20-5.80,Quest
+1/4/14,RBC Magnesium,The Magnesium in our cells,4.6,mg/dL,4.0-6.4,Quest
+1/4/14,RBC Magnesium,The Magnesium in our cells,4.6,mg/dL,4.0-6.4,Quest
+1/4/14,RDW,Red cell distribution width,13.4,%,11.0-15.0,Quest
+1/4/14,RDW,Red cell distribution width,13.4,%,11.0-15.0,Quest
+1/4/14,Reverse T3,"Reverse T3, Serum",35.0,ng/dL,8-25,Quest
+1/4/14,Reverse T3,"Reverse T3, Serum",35.0,ng/dL,8-25,Quest
+1/4/14,SHBG,Sex Hormone Binding Globulin,30.0,nmol/L,10-50,Quest
+1/4/14,SHBG,Sex Hormone Binding Globulin,30.0,nmol/L,10-50,Quest
+1/4/14,SHBG,Sex Hormone Binding Globulin,30.0,nmol/L,10-50,Quest
+1/4/14,SHBG,Sex Hormone Binding Globulin,30.0,nmol/L,10-50,Quest
+1/4/14,Sodium,An electrolyte outside cells,139.0,mmol/L,135-146,Quest
+1/4/14,Sodium,An electrolyte outside cells,139.0,mmol/L,135-146,Quest
+1/4/14,T-Uptake,Thyroxine Binding Sites,31.0,%,22-35,Quest
+1/4/14,T-Uptake,Thyroxine Binding Sites,31.0,%,22-35,Quest
+1/4/14,TSH,Thyroid-Stimulating Hormone,2.26,mIU/L,0.40-4.50,Quest
+1/4/14,TSH,Thyroid-Stimulating Hormone,2.26,mIU/L,0.40-4.50,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+1/4/14,"Thyroxine (T4, total)",Total thyroxine (T4) level,10.0,?g/dL,4.5-12.0,Quest
+1/4/14,"Thyroxine (T4, total)",Total thyroxine (T4) level,10.0,?g/dL,4.5-12.0,Quest
+1/4/14,Total Cholesterol,A Type of Fat,204.0,mg/dL,125-200,Quest
+1/4/14,Total Cholesterol,A Type of Fat,204.0,mg/dL,125-200,Quest
+1/4/14,Total Iron Binding Capacity,Estimates Transferrin level,356.0,?g/dL,250-425,Quest
+1/4/14,Total Iron Binding Capacity,Estimates Transferrin level,356.0,?g/dL,250-425,Quest
+1/4/14,Total Protein,Total protein amount (serum),7.6,g/dL,6.1-8.1,Quest
+1/4/14,Total Protein,Total protein amount (serum),7.6,g/dL,6.1-8.1,Quest
+1/4/14,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.5,,< OR = 5.0,Quest
+1/4/14,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.5,,< OR = 5.0,Quest
+1/4/14,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.5,,,
+1/4/14,Triglycerides,Type of Fat,47.0,mg/dL,<150,Quest
+1/4/14,Triglycerides,Type of Fat,47.0,mg/dL,<150,Quest
+1/4/14,Triglycerides to HDL Ratio,Ratio of Triglycerides to HDL,0.8,,,
+1/4/14,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),99.0,ng/dL,76-181,Quest
+1/4/14,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),99.0,ng/dL,76-181,Quest
+1/4/14,Vitamin B12,Essential nutrient for cells,364.0,pg/mL,200-1100,Quest
+1/4/14,Vitamin B12,Essential nutrient for cells,364.0,pg/mL,200-1100,Quest
+1/4/14,White Blood Cell Count,Immune system cells,4.5,x10E3/?L,3.8-10.8,Quest
+1/4/14,White Blood Cell Count,Immune system cells,4.5,x10E3/?L,3.8-10.8,Quest
+1/4/14,Z score,IGF-1 compared to others,0.8,,-2.0 - +2.0,Quest
+1/4/14,Z score,IGF-1 compared to others,0.8,,-2.0 - +2.0,Quest
+1/4/14,eGFR,Marker for kidney function,97.0,mL/min/1.73m2,> OR = 60,Quest
+1/4/14,eGFR,Marker for kidney function,97.0,mL/min/1.73m2,> OR = 60,Quest
+1/4/14,eGFR (African American ethnicity),eGFR if African American,113.0,mL/min/1.73m2,> OR = 60,Quest
+1/4/14,eGFR (African American ethnicity),eGFR if African American,113.0,mL/min/1.73m2,> OR = 60,Quest
+1/4/14,hs-CRP,General Inflammation Marker,0.3,mg/L,,Quest
+1/4/14,hs-CRP,General Inflammation Marker,0.3,mg/L,,Quest
+1/23/14,Body Mass Index,Measure of weight to height,21.8,Kg/m2,,
+1/23/14,Weight,Your weight,127.0,pounds,,
+12/15/14,Body Mass Index,Measure of weight to height,21.3,Kg/m2,,
+12/15/14,Height,,64.0,inches,,
+12/15/14,Waist Circumference,The circumference of your waist,30.0,inches,,
+12/15/14,Waist Circumference,The circumference of your waist,30.0,inches,,
+12/15/14,Waist to Height Ratio,The ratio of waist to height,0.47,,,
+12/15/14,Weight,Your weight,124.0,pounds,,
+12/17/14,% Basophils,Part of WBC differential,0.5,%,,Quest
+12/17/14,% Eosinophils,Part of WBC differential,2.2,%,,Quest
+12/17/14,% Lymphocytes,Part of WBC differential,29.9,%,,Quest
+12/17/14,% Monocytes,Part of WBC differential,5.9,%,,Quest
+12/17/14,% Neutrophil,Part of WBC differential,61.5,%,,Quest
+12/17/14,25-Hydroxy Vitamin D,Precursor to vitamin D,35.0,ng/mL,30-100,Quest
+12/17/14,25-hydroxy Vitamin D2,Vitamin D found in plants and supplements,29.0,ng/mL,See Below,Quest
+12/17/14,25-hydroxy Vitamin D3,Vitamin D from sunlight and meat,6.0,ng/mL,See Below,Quest
+12/17/14,A/G Ratio,"Proportion, albumin/globulin",1.6,,1.0-2.5,Quest
+12/17/14,ALP,Alkaline Phosphatase,69.0,IU/L,40-115,Quest
+12/17/14,ALT / SGPT,Alanine aminotransferase,31.0,IU/L,9-46,Quest
+12/17/14,ALT / SGPT,Alanine aminotransferase,31.0,IU/L,9-46,Quest
+12/17/14,AST / SGOT,Aspartate aminotransferase,25.0,IU/L,10-40,Quest
+12/17/14,AST / SGOT,Aspartate aminotransferase,25.0,IU/L,10-40,Quest
+12/17/14,Albumin,Type of protein in blood,4.8,g/dL,3.6-5.1,Quest
+12/17/14,Apo A1,"Protein in HDL (""Good"") Cholesterol",145.0,mg/dL,94-176,Quest
+12/17/14,Apo B,"Protein in LDL (""Bad"") Cholesterol",94.0,mg/dL,52-109,Quest
+12/17/14,Arachidonic acid,Omega-6 fatty acid,0.6,%,0.3-2.3,Quest
+12/17/14,BUN,Blood Urea Nitrogen,18.0,mg/dL,7-25,Quest
+12/17/14,Basophil (absolute),Calculation of WBC type,0.031,x10E3/?L,0-200,Quest
+12/17/14,Bilirubin (total),Made by the liver to help digest fat.,0.8,mg/dL,0.2-1.2,Quest
+12/17/14,CO2,Carbon dioxide in blood,25.0,mmol/L,19-30,Quest
+12/17/14,Calcium,Blood and Bone Mineral,10.0,mg/dL,8.6-10.3,Quest
+12/17/14,Chloride,Balances other electrolytes,102.0,mmol/L,98-110,Quest
+12/17/14,Cortisol,Primary stress hormone,17.6,?g/dL,,Quest
+12/17/14,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+12/17/14,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,DHEA-S,Adrenal Hormone,322.0,?g/dL,106-464,Quest
+12/17/14,Docosahexaenoic acid (DHA),Omega-3 fatty acid,6.5,%,0.4-3.0,Quest
+12/17/14,EPA:AA Ratio,"Ratio of two fatty acids ",0.7,,0.2-7.0,Quest
+12/17/14,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,0.9,%,<2.3,Quest
+12/17/14,Eosinophil (absolute),Calculation of WBC type,0.136,x10E3/?L,15-500,Quest
+12/17/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
+12/17/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
+12/17/14,FSH,Follicle-stimulating hormone,2.6,mIU/mL,1.6-8.0,Quest
+12/17/14,FSH,Follicle-stimulating hormone,2.6,mIU/mL,1.6-8.0,Quest
+12/17/14,Ferritin,Iron storage protein,100.0,ng/mL,20-345,Quest
+12/17/14,Ferritin,Iron storage protein,100.0,ng/mL,20-345,Quest
+12/17/14,Fibrinogen,Inflammation marker important in blood clotting.,340.0,mg/dL,175-425,Quest
+12/17/14,Folate,Folic Acid,9.4,ng/mL,,Quest
+12/17/14,Free T3,Available T3,3.0,pg/mL,2.3-4.2,Quest
+12/17/14,Free T4,Available T4,1.4,ng/dL,0.8-1.8,Quest
+12/17/14,Free Testosterone,Active Unbound Testosterone,145.5,pg/mL,35.0-155.0,Quest
+12/17/14,Free Testosterone,Active Unbound Testosterone,145.5,pg/mL,35.0-155.0,Quest
+12/17/14,Free Thyroxine Index,A Thyroxine Index,3.1,,1.4-3.8,Quest
+12/17/14,Globulin,Immune protein,3.0,g/dL,1.9-3.7,Quest
+12/17/14,Glucose,Blood Sugar,77.0,mg/dL,65-99,Quest
+12/17/14,HDL,"""Good"" Cholesterol",60.0,mg/dL,> OR = 40,Quest
+12/17/14,HOMA-IR SCORE,Predicting risk of insulin resistance and diabetes,0.3,,,
+12/17/14,Hematocrit,Fraction of red blood cells,44.5,%,38.5-50.0,Quest
+12/17/14,Hematocrit,Fraction of red blood cells,44.5,%,38.5-50.0,Quest
+12/17/14,Hemoglobin,Protein in red blood cells,14.9,g/dL,13.2-17.1,Quest
+12/17/14,Hemoglobin,Protein in red blood cells,14.9,g/dL,13.2-17.1,Quest
+12/17/14,Hemoglobin A1c (HbA1c),Average blood sugar level,5.4,%,<5.7,Quest
+12/17/14,Homocysteine,Inflammation marker,13.9,?mol/L,<11.4,Quest
+12/17/14,Insulin,Blood sugar storage hormone,1.6,mIU/L,2.0-19.6,Quest
+12/17/14,Insulin-Like Growth Factor I,A Measure of Growth Hormone,178.0,ng/mL,53-331,Quest
+12/17/14,Iron (serum),Iron in liquid part of blood,135.0,?g/dL,50-180,Quest
+12/17/14,Iron Saturation,The percent of Iron transport protein bound to Iron,37.0,%,15-60,Quest
+12/17/14,LDL,Less Healthy Low-Density Lipoprotein,126.0,mg/dL,<130,Quest
+12/17/14,LDL Particles,Number of LDL Particles,1504.0,nmol/L,1016-2185,Quest
+12/17/14,LDL Phenotype,LDL Size Pattern,A,Pattern,A,Quest
+12/17/14,Large HDL,Large High-Density Lipoprotein,6447.0,nmol/L,4334-10815,Quest
+12/17/14,Lp(a),Different Form of LDL,43.0,nmol/L,<75,Quest
+12/17/14,Lp-PLA2,Marker of Inflamed Vessels,189.0,ng/mL,81-259,Quest
+12/17/14,Lp-PLA2,Marker of Inflamed Vessels,189.0,ng/mL,81-259,Quest
+12/17/14,Luteinizing Hormone (LH),Sex Hormone,5.0,mIU/mL,1.5-9.3,Quest
+12/17/14,Luteinizing Hormone (LH),Sex Hormone,5.0,mIU/mL,1.5-9.3,Quest
+12/17/14,Lymphocyte Count (absolute),Calculation of WBC type,1.854,x10E3/?L,850-3900,Quest
+12/17/14,MCH,Mean cell hemoglobin,31.2,pg,27.0-33.0,Quest
+12/17/14,MCHC,RBC hemoglobin concentration,33.6,g/dL,32.0-36.0,Quest
+12/17/14,MCV,Mean corpuscular volume,93.0,fL,80.0-100.0,Quest
+12/17/14,Mean Platelet Volume (MPV),Average platelet size,9.7,fL,7.5-11.5,Quest
+12/17/14,Medium LDL,Medium Low-Density Lipoprotein,238.0,nmol/L,167-465,Quest
+12/17/14,Monocytes (absolute),type of white blood cell,0.366,x10E3/?L,200-950,Quest
+12/17/14,Neutrophil Count (ANC),Type of white blood cell,3.813,x10E3/?L,1500-7800,Quest
+12/17/14,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,137.0,mg/dL,,Quest
+12/17/14,Omega Index,Amount of omega-3 fatty acids,7.5,%,0.5-6.4,Quest
+12/17/14,Omega Risk,Risk based on omega profile,Low,,,Quest
+12/17/14,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,3.2,,1.3-12.0,Quest
+12/17/14,Peak LDL Size,The size of LDL particles,225.0,Angstrom,> OR = 218.2,Quest
+12/17/14,Platelet Count,Clot-forming cell fragments,238.0,x10E3/?L,140-400,Quest
+12/17/14,Potassium,"An electrolyte inside cells ",4.1,mmol/L,3.5-5.3,Quest
+12/17/14,Progesterone,,0.8,ng/mL,<1.4,Quest
+12/17/14,Progesterone,,0.8,ng/mL,<1.4,Quest
+12/17/14,RBC,Red blood cell count,4.79,x10E6/?L,4.20-5.80,Quest
+12/17/14,RBC,Red blood cell count,4.79,x10E6/?L,4.20-5.80,Quest
+12/17/14,RBC Magnesium,The Magnesium in our cells,4.4,mg/dL,4.0-6.4,Quest
+12/17/14,RDW,Red cell distribution width,12.9,%,11.0-15.0,Quest
+12/17/14,Reverse T3,"Reverse T3, Serum",32.0,ng/dL,8-25,Quest
+12/17/14,SHBG,Sex Hormone Binding Globulin,34.0,nmol/L,10-50,Quest
+12/17/14,SHBG,Sex Hormone Binding Globulin,34.0,nmol/L,10-50,Quest
+12/17/14,Small LDL,Small Low-Density Lipoprotein,180.0,nmol/L,123-441,Quest
+12/17/14,Sodium,An electrolyte outside cells,138.0,mmol/L,135-146,Quest
+12/17/14,T-Uptake,Thyroxine Binding Sites,32.0,%,22-35,Quest
+12/17/14,TSH,Thyroid-Stimulating Hormone,2.31,mIU/L,0.40-4.50,Quest
+12/17/14,Testosterone (total),Steroid hormone,711.0,ng/dL,250-1100,Quest
+12/17/14,Testosterone (total),Steroid hormone,711.0,ng/dL,250-1100,Quest
+12/17/14,Testosterone (total),Steroid hormone,711.0,ng/dL,250-1100,Quest
+12/17/14,Testosterone (total),Steroid hormone,711.0,ng/dL,250-1100,Quest
+12/17/14,Testosterone (total),Steroid hormone,711.0,ng/dL,250-1100,Quest
+12/17/14,Testosterone (total),Steroid hormone,711.0,ng/dL,250-1100,Quest
+12/17/14,"Thyroxine (T4, total)",Total thyroxine (T4) level,9.7,?g/dL,4.5-12.0,Quest
+12/17/14,Total Cholesterol,A Type of Fat,197.0,mg/dL,125-200,Quest
+12/17/14,Total Iron Binding Capacity,Estimates Transferrin level,363.0,?g/dL,250-425,Quest
+12/17/14,Total Protein,Total protein amount (serum),7.8,g/dL,6.1-8.1,Quest
+12/17/14,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.3,,< OR = 5.0,Quest
+12/17/14,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.3,,,
+12/17/14,Triglycerides,Type of Fat,54.0,mg/dL,<150,Quest
+12/17/14,Triglycerides to HDL Ratio,Ratio of Triglycerides to HDL,0.9,,,
+12/17/14,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),105.0,ng/dL,76-181,Quest
+12/17/14,Vitamin B12,Essential nutrient for cells,463.0,pg/mL,200-1100,Quest
+12/17/14,White Blood Cell Count,Immune system cells,6.2,x10E3/?L,3.8-10.8,Quest
+12/17/14,Z score,IGF-1 compared to others,0.5,,-2.0 - +2.0,Quest
+12/17/14,eGFR,Marker for kidney function,96.0,mL/min/1.73m2,> OR = 60,Quest
+12/17/14,eGFR (African American ethnicity),eGFR if African American,112.0,mL/min/1.73m2,> OR = 60,Quest
+12/17/14,hs-CRP,General Inflammation Marker,2.8,mg/L,,Quest
+1/11/16,% Basophils,Part of WBC differential,0.8,%,,Quest
+1/11/16,% Eosinophils,Part of WBC differential,3.9,%,,Quest
+1/11/16,% Lymphocytes,Part of WBC differential,42.1,%,,Quest
+1/11/16,% Monocytes,Part of WBC differential,8.6,%,,Quest
+1/11/16,% Neutrophil,Part of WBC differential,44.6,%,,Quest
+1/11/16,25-Hydroxy Vitamin D,Precursor to vitamin D,38.0,ng/mL,30-100,Quest
+1/11/16,A/G Ratio,"Proportion, albumin/globulin",1.7,,1.0-2.5,Quest
+1/11/16,ALP,Alkaline Phosphatase,62.0,IU/L,40-115,Quest
+1/11/16,ALT / SGPT,Alanine aminotransferase,32.0,IU/L,9-46,Quest
+1/11/16,ALT / SGPT,Alanine aminotransferase,32.0,IU/L,9-46,Quest
+1/11/16,AST / SGOT,Aspartate aminotransferase,25.0,IU/L,10-40,Quest
+1/11/16,AST / SGOT,Aspartate aminotransferase,25.0,IU/L,10-40,Quest
+1/11/16,Albumin,Type of protein in blood,4.8,g/dL,3.6-5.1,Quest
+1/11/16,Apo A1,"Protein in HDL (""Good"") Cholesterol",138.0,mg/dL,,Quest
+1/11/16,Apo B,"Protein in LDL (""Bad"") Cholesterol",87.0,mg/dL,,Quest
+1/11/16,Arachidonic acid,Omega-6 fatty acid,8.3,%,5.2-12.9,Quest
+1/11/16,BUN,Blood Urea Nitrogen,11.0,mg/dL,7-25,Quest
+1/11/16,Basophil (absolute),Calculation of WBC type,0.023,x10E3/?L,0-200,Quest
+1/11/16,Bilirubin (total),Made by the liver to help digest fat.,0.8,mg/dL,0.2-1.2,Quest
+1/11/16,CO2,Carbon dioxide in blood,30.0,mmol/L,19-30,Quest
+1/11/16,Calcium,Blood and Bone Mineral,9.8,mg/dL,8.6-10.3,Quest
+1/11/16,Chloride,Balances other electrolytes,102.0,mmol/L,98-110,Quest
+1/11/16,Cortisol,Primary stress hormone,13.3,?g/dL,,Quest
+1/11/16,Creatinine,Creatinine in your blood,0.92,mg/dL,0.60-1.35,Quest
+1/11/16,Creatinine,Creatinine in your blood,0.92,mg/dL,0.60-1.35,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,DHEA-S,Adrenal Hormone,345.0,?g/dL,106-464,Quest
+1/11/16,Docosahexaenoic acid (DHA),Omega-3 fatty acid,3.5,%,1.2-3.9,Quest
+1/11/16,EPA:AA Ratio,"Ratio of two fatty acids ",0.1,,0.2 OR LESS,Quest
+1/11/16,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,0.5,%,0.2-1.5,Quest
+1/11/16,Eosinophil (absolute),Calculation of WBC type,0.113,x10E3/?L,15-500,Quest
+1/11/16,Estradiol,Main female sex hormone,31.0,pg/mL,< OR = 39,Quest
+1/11/16,Estradiol,Main female sex hormone,31.0,pg/mL,< OR = 39,Quest
+1/11/16,FSH,Follicle-stimulating hormone,2.8,mIU/mL,1.6-8.0,Quest
+1/11/16,FSH,Follicle-stimulating hormone,2.8,mIU/mL,1.6-8.0,Quest
+1/11/16,Ferritin,Iron storage protein,97.0,ng/mL,20-345,Quest
+1/11/16,Ferritin,Iron storage protein,97.0,ng/mL,20-345,Quest
+1/11/16,Fibrinogen,Inflammation marker important in blood clotting.,325.0,mg/dL,175-425,Quest
+1/11/16,Folate,Folic Acid,18.9,ng/mL,,Quest
+1/11/16,"Free Fatty Acids ",Fatty acids,0.61,mmol/L,0.07-0.88,Quest
+1/11/16,Free T3,Available T3,2.8,pg/mL,2.3-4.2,Quest
+1/11/16,Free T4,Available T4,1.2,ng/dL,0.8-1.8,Quest
+1/11/16,Free Testosterone,Active Unbound Testosterone,104.1,pg/mL,35.0-155.0,Quest
+1/11/16,Free Testosterone,Active Unbound Testosterone,104.1,pg/mL,35.0-155.0,Quest
+1/11/16,Free Thyroxine Index,A Thyroxine Index,3.0,,1.4-3.8,Quest
+1/11/16,Globulin,Immune protein,2.9,g/dL,1.9-3.7,Quest
+1/11/16,Glucose,Blood Sugar,76.0,mg/dL,65-99,Quest
+1/11/16,HDL,"""Good"" Cholesterol",52.0,mg/dL,> OR = 40,Quest
+1/11/16,HOMA-IR SCORE,Predicting risk of insulin resistance and diabetes,0.4,,,
+1/11/16,Hematocrit,Fraction of red blood cells,41.6,%,38.5-50.0,Quest
+1/11/16,Hematocrit,Fraction of red blood cells,41.6,%,38.5-50.0,Quest
+1/11/16,Hemoglobin,Protein in red blood cells,13.8,g/dL,13.2-17.1,Quest
+1/11/16,Hemoglobin,Protein in red blood cells,13.8,g/dL,13.2-17.1,Quest
+1/11/16,Hemoglobin A1c (HbA1c),Average blood sugar level,5.4,%,<5.7,Quest
+1/11/16,Homocysteine,Inflammation marker,13.2,?mol/L,<11.4,Quest
+1/11/16,Insulin,Blood sugar storage hormone,2.2,mIU/L,2.0-19.6,Quest
+1/11/16,Insulin-Like Growth Factor I,A Measure of Growth Hormone,159.0,ng/mL,53-331,Quest
+1/11/16,Iron (serum),Iron in liquid part of blood,177.0,?g/dL,50-180,Quest
+1/11/16,Iron Saturation,The percent of Iron transport protein bound to Iron,50.0,%,15-60,Quest
+1/11/16,LDL,Less Healthy Low-Density Lipoprotein,116.0,mg/dL,<130,Quest
+1/11/16,LDL Particles,Number of LDL Particles,1399.0,nmol/L,1016-2185,Quest
+1/11/16,LDL Phenotype,LDL Size Pattern,A,Pattern,A,Quest
+1/11/16,Large HDL,Large High-Density Lipoprotein,4890.0,nmol/L,4334-10815,Quest
+1/11/16,Lp(a),Different Form of LDL,45.0,nmol/L,<75,Quest
+1/11/16,Lp-PLA2,Marker of Inflamed Vessels,158.0,ng/mL,81-259,Quest
+1/11/16,Lp-PLA2,Marker of Inflamed Vessels,158.0,ng/mL,81-259,Quest
+1/11/16,Luteinizing Hormone (LH),Sex Hormone,4.3,mIU/mL,1.5-9.3,Quest
+1/11/16,Luteinizing Hormone (LH),Sex Hormone,4.3,mIU/mL,1.5-9.3,Quest
+1/11/16,Lymphocyte Count (absolute),Calculation of WBC type,1.221,x10E3/?L,850-3900,Quest
+1/11/16,MCH,Mean cell hemoglobin,30.7,pg,27.0-33.0,Quest
+1/11/16,MCHC,RBC hemoglobin concentration,33.1,g/dL,32.0-36.0,Quest
+1/11/16,MCV,Mean corpuscular volume,92.7,fL,80.0-100.0,Quest
+1/11/16,Mean Platelet Volume (MPV),Average platelet size,8.6,fL,7.5-11.5,Quest
+1/11/16,Medium LDL,Medium Low-Density Lipoprotein,307.0,nmol/L,167-465,Quest
+1/11/16,Monocytes (absolute),type of white blood cell,0.249,x10E3/?L,200-950,Quest
+1/11/16,Neutrophil Count (ANC),Type of white blood cell,1.293,x10E3/?L,1500-7800,Quest
+1/11/16,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,126.0,mg/dL,,Quest
+1/11/16,Omega Index,Amount of omega-3 fatty acids,3.9,%,1.4-4.9,Quest
+1/11/16,Omega Risk,Risk based on omega profile,Low,,,Quest
+1/11/16,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,6.7,,5.7-21.3,Quest
+1/11/16,Peak LDL Size,The size of LDL particles,219.9,Angstrom,> OR = 218.2,Quest
+1/11/16,Platelet Count,Clot-forming cell fragments,244.0,x10E3/?L,140-400,Quest
+1/11/16,Potassium,"An electrolyte inside cells ",4.1,mmol/L,3.5-5.3,Quest
+1/11/16,Progesterone,,0.5,ng/mL,<1.4,Quest
+1/11/16,Progesterone,,0.5,ng/mL,<1.4,Quest
+1/11/16,RBC,Red blood cell count,4.49,x10E6/?L,4.20-5.80,Quest
+1/11/16,RBC,Red blood cell count,4.49,x10E6/?L,4.20-5.80,Quest
+1/11/16,RBC Magnesium,The Magnesium in our cells,4.9,mg/dL,4.0-6.4,Quest
+1/11/16,RDW,Red cell distribution width,13.4,%,11.0-15.0,Quest
+1/11/16,Reverse T3,"Reverse T3, Serum",18.0,ng/dL,8-25,Quest
+1/11/16,SHBG,Sex Hormone Binding Globulin,47.0,nmol/L,10-50,Quest
+1/11/16,SHBG,Sex Hormone Binding Globulin,47.0,nmol/L,10-50,Quest
+1/11/16,Small LDL,Small Low-Density Lipoprotein,241.0,nmol/L,123-441,Quest
+1/11/16,Sodium,An electrolyte outside cells,139.0,mmol/L,135-146,Quest
+1/11/16,T-Uptake,Thyroxine Binding Sites,33.0,%,22-35,Quest
+1/11/16,TSH,Thyroid-Stimulating Hormone,2.53,mIU/L,0.40-4.50,Quest
+1/11/16,Testosterone (total),Steroid hormone,825.0,ng/dL,250-1100,Quest
+1/11/16,Testosterone (total),Steroid hormone,825.0,ng/dL,250-1100,Quest
+1/11/16,Testosterone (total),Steroid hormone,825.0,ng/dL,250-1100,Quest
+1/11/16,Testosterone (total),Steroid hormone,825.0,ng/dL,250-1100,Quest
+1/11/16,Testosterone (total),Steroid hormone,825.0,ng/dL,250-1100,Quest
+1/11/16,Testosterone (total),Steroid hormone,825.0,ng/dL,250-1100,Quest
+1/11/16,"Thyroxine (T4, total)",Total thyroxine (T4) level,9.2,?g/dL,4.5-12.0,Quest
+1/11/16,Total Cholesterol,A Type of Fat,178.0,mg/dL,125-200,Quest
+1/11/16,Total Iron Binding Capacity,Estimates Transferrin level,353.0,?g/dL,250-425,Quest
+1/11/16,Total Protein,Total protein amount (serum),7.7,g/dL,6.1-8.1,Quest
+1/11/16,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.4,,< OR = 5.0,Quest
+1/11/16,Triglycerides,Type of Fat,51.0,mg/dL,<150,Quest
+1/11/16,Triglycerides to HDL Ratio,Ratio of Triglycerides to HDL,1.0,,,
+1/11/16,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),79.0,ng/dL,76-181,Quest
+1/11/16,Vitamin B12,Essential nutrient for cells,472.0,pg/mL,200-1100,Quest
+1/11/16,White Blood Cell Count,Immune system cells,2.9,x10E3/?L,3.8-10.8,Quest
+1/11/16,Z score,IGF-1 compared to others,0.2,,-2.0 - +2.0,Quest
+1/11/16,eGFR,Marker for kidney function,106.0,mL/min/1.73m2,> OR = 60,Quest
+1/11/16,eGFR (African American ethnicity),eGFR if African American,123.0,mL/min/1.73m2,> OR = 60,Quest
+1/11/16,hs-CRP,General Inflammation Marker,0.5,mg/L,,Quest
+12/22/16,% Basophils,Part of WBC differential,0.6,%,,Quest
+12/22/16,% Eosinophils,Part of WBC differential,5.2,%,,Quest
+12/22/16,% Lymphocytes,Part of WBC differential,39.5,%,,Quest
+12/22/16,% Monocytes,Part of WBC differential,7.6,%,,Quest
+12/22/16,% Neutrophil,Part of WBC differential,47.1,%,,Quest
+12/22/16,25-Hydroxy Vitamin D,Precursor to vitamin D,21.0,ng/mL,30-100,Quest
+12/22/16,A/G Ratio,"Proportion, albumin/globulin",1.6,,1.0-2.5,Quest
+12/22/16,ALP,Alkaline Phosphatase,63.0,IU/L,40-115,Quest
+12/22/16,ALT / SGPT,Alanine aminotransferase,37.0,IU/L,9-46,Quest
+12/22/16,ALT / SGPT,Alanine aminotransferase,37.0,IU/L,9-46,Quest
+12/22/16,AST / SGOT,Aspartate aminotransferase,29.0,IU/L,10-40,Quest
+12/22/16,AST / SGOT,Aspartate aminotransferase,29.0,IU/L,10-40,Quest
+12/22/16,Albumin,Type of protein in blood,4.7,g/dL,3.6-5.1,Quest
+12/22/16,Apo A1,"Protein in HDL (""Good"") Cholesterol",169.0,mg/dL,,Quest
+12/22/16,Apo B,"Protein in LDL (""Bad"") Cholesterol",110.0,mg/dL,,Quest
+12/22/16,Arachidonic acid,Omega-6 fatty acid,8.8,%,5.2-12.9,Quest
+12/22/16,BUN,Blood Urea Nitrogen,15.0,mg/dL,7-25,Quest
+12/22/16,Basophil (absolute),Calculation of WBC type,0.023,x10E3/?L,0-200,Quest
+12/22/16,Bilirubin (total),Made by the liver to help digest fat.,0.8,mg/dL,0.2-1.2,Quest
+12/22/16,CO2,Carbon dioxide in blood,25.0,mmol/L,20-31,Quest
+12/22/16,Calcium,Blood and Bone Mineral,9.9,mg/dL,8.6-10.3,Quest
+12/22/16,Chloride,Balances other electrolytes,102.0,mmol/L,98-110,Quest
+12/22/16,Cortisol,Primary stress hormone,18.7,?g/dL,,Quest
+12/22/16,Creatinine,Creatinine in your blood,0.9,mg/dL,0.60-1.35,Quest
+12/22/16,Creatinine,Creatinine in your blood,0.9,mg/dL,0.60-1.35,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,DHEA-S,Adrenal Hormone,377.0,?g/dL,106-464,Quest
+12/22/16,Docosahexaenoic acid (DHA),Omega-3 fatty acid,3.3,%,1.2-3.9,Quest
+12/22/16,EPA:AA Ratio,"Ratio of two fatty acids ",0.1,,0.2 OR LESS,Quest
+12/22/16,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,1.0,%,0.2-1.5,Quest
+12/22/16,Eosinophil (absolute),Calculation of WBC type,0.198,x10E3/?L,15-500,Quest
+12/22/16,Estradiol,Main female sex hormone,49.0,pg/mL,< OR = 39,Quest
+12/22/16,Estradiol,Main female sex hormone,49.0,pg/mL,< OR = 39,Quest
+12/22/16,FSH,Follicle-stimulating hormone,3.4,mIU/mL,1.6-8.0,Quest
+12/22/16,FSH,Follicle-stimulating hormone,3.4,mIU/mL,1.6-8.0,Quest
+12/22/16,Ferritin,Iron storage protein,82.0,ng/mL,20-345,Quest
+12/22/16,Ferritin,Iron storage protein,82.0,ng/mL,20-345,Quest
+12/22/16,Fibrinogen,Inflammation marker important in blood clotting.,268.0,mg/dL,175-425,Quest
+12/22/16,Folate,Folic Acid,14.9,ng/mL,,Quest
+12/22/16,"Free Fatty Acids ",Fatty acids,0.66,mmol/L,0.07-0.88,Quest
+12/22/16,Free T3,Available T3,3.0,pg/mL,2.3-4.2,Quest
+12/22/16,Free T4,Available T4,1.5,ng/dL,0.8-1.8,Quest
+12/22/16,Free Testosterone,Active Unbound Testosterone,145.9,pg/mL,35.0-155.0,Quest
+12/22/16,Free Testosterone,Active Unbound Testosterone,145.9,pg/mL,35.0-155.0,Quest
+12/22/16,Free Thyroxine Index,A Thyroxine Index,2.8,,1.4-3.8,Quest
+12/22/16,Globulin,Immune protein,2.9,g/dL,1.9-3.7,Quest
+12/22/16,Glucose,Blood Sugar,81.0,mg/dL,65-99,Quest
+12/22/16,HDL,"""Good"" Cholesterol",68.0,mg/dL,> OR = 40,Quest
+12/22/16,HOMA-IR SCORE,Predicting risk of insulin resistance and diabetes,0.4,,,
+12/22/16,Hematocrit,Fraction of red blood cells,44.8,%,38.5-50.0,Quest
+12/22/16,Hematocrit,Fraction of red blood cells,44.8,%,38.5-50.0,Quest
+12/22/16,Hemoglobin,Protein in red blood cells,15.0,g/dL,13.2-17.1,Quest
+12/22/16,Hemoglobin,Protein in red blood cells,15.0,g/dL,13.2-17.1,Quest
+12/22/16,Hemoglobin A1c (HbA1c),Average blood sugar level,5.4,%,<5.7,Quest
+12/22/16,Homocysteine,Inflammation marker,11.7,?mol/L,<11.4,Quest
+12/22/16,Insulin,Blood sugar storage hormone,2.2,mIU/L,2.0-19.6,Quest
+12/22/16,Insulin-Like Growth Factor I,A Measure of Growth Hormone,164.0,ng/mL,53-331,Quest
+12/22/16,Iron (serum),Iron in liquid part of blood,161.0,?g/dL,50-180,Quest
+12/22/16,Iron Saturation,The percent of Iron transport protein bound to Iron,43.0,%,15-60,Quest
+12/22/16,LDL,Less Healthy Low-Density Lipoprotein,160.0,mg/dL,<130,Quest
+12/22/16,LDL Particles,Number of LDL Particles,1677.0,nmol/L,1016-2185,Quest
+12/22/16,LDL Phenotype,LDL Size Pattern,A,Pattern,A,Quest
+12/22/16,Large HDL,Large High-Density Lipoprotein,6202.0,nmol/L,4334-10815,Quest
+12/22/16,Lp(a),Different Form of LDL,43.0,nmol/L,<75,Quest
+12/22/16,Luteinizing Hormone (LH),Sex Hormone,5.6,mIU/mL,1.5-9.3,Quest
+12/22/16,Luteinizing Hormone (LH),Sex Hormone,5.6,mIU/mL,1.5-9.3,Quest
+12/22/16,Lymphocyte Count (absolute),Calculation of WBC type,1.501,x10E3/?L,850-3900,Quest
+12/22/16,MCH,Mean cell hemoglobin,30.1,pg,27.0-33.0,Quest
+12/22/16,MCHC,RBC hemoglobin concentration,33.5,g/dL,32.0-36.0,Quest
+12/22/16,MCV,Mean corpuscular volume,89.9,fL,80.0-100.0,Quest
+12/22/16,Mean Platelet Volume (MPV),Average platelet size,8.7,fL,7.5-11.5,Quest
+12/22/16,Medium LDL,Medium Low-Density Lipoprotein,309.0,nmol/L,167-465,Quest
+12/22/16,Monocytes (absolute),type of white blood cell,0.289,x10E3/?L,200-950,Quest
+12/22/16,Neutrophil Count (ANC),Type of white blood cell,1.79,x10E3/?L,1500-7800,Quest
+12/22/16,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,169.0,mg/dL,,Quest
+12/22/16,Omega Index,Amount of omega-3 fatty acids,4.3,%,1.4-4.9,Quest
+12/22/16,Omega Risk,Risk based on omega profile,Low,,,Quest
+12/22/16,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,6.6,,5.7-21.3,Quest
+12/22/16,Peak LDL Size,The size of LDL particles,226.7,Angstrom,> OR = 218.2,Quest
+12/22/16,Platelet Count,Clot-forming cell fragments,248.0,x10E3/?L,140-400,Quest
+12/22/16,Potassium,"An electrolyte inside cells ",4.2,mmol/L,3.5-5.3,Quest
+12/22/16,Progesterone,,0.9,ng/mL,<1.4,Quest
+12/22/16,Progesterone,,0.9,ng/mL,<1.4,Quest
+12/22/16,RBC,Red blood cell count,4.99,x10E6/?L,4.20-5.80,Quest
+12/22/16,RBC,Red blood cell count,4.99,x10E6/?L,4.20-5.80,Quest
+12/22/16,RBC Magnesium,The Magnesium in our cells,4.6,mg/dL,4.0-6.4,Quest
+12/22/16,RDW,Red cell distribution width,12.9,%,11.0-15.0,Quest
+12/22/16,Reverse T3,"Reverse T3, Serum",27.0,ng/dL,8-25,Quest
+12/22/16,SHBG,Sex Hormone Binding Globulin,49.0,nmol/L,10-50,Quest
+12/22/16,SHBG,Sex Hormone Binding Globulin,49.0,nmol/L,10-50,Quest
+12/22/16,Small LDL,Small Low-Density Lipoprotein,219.0,nmol/L,123-441,Quest
+12/22/16,Sodium,An electrolyte outside cells,138.0,mmol/L,135-146,Quest
+12/22/16,T-Uptake,Thyroxine Binding Sites,30.0,%,22-35,Quest
+12/22/16,TSH,Thyroid-Stimulating Hormone,2.49,mIU/L,0.40-4.50,Quest
+12/22/16,Testosterone (total),Steroid hormone,973.0,ng/dL,250-1100,Quest
+12/22/16,Testosterone (total),Steroid hormone,973.0,ng/dL,250-1100,Quest
+12/22/16,Testosterone (total),Steroid hormone,973.0,ng/dL,250-1100,Quest
+12/22/16,Testosterone (total),Steroid hormone,973.0,ng/dL,250-1100,Quest
+12/22/16,Testosterone (total),Steroid hormone,973.0,ng/dL,250-1100,Quest
+12/22/16,Testosterone (total),Steroid hormone,973.0,ng/dL,250-1100,Quest
+12/22/16,"Thyroxine (T4, total)",Total thyroxine (T4) level,9.2,?g/dL,4.5-12.0,Quest
+12/22/16,Total Cholesterol,A Type of Fat,237.0,mg/dL,125-200,Quest
+12/22/16,Total Iron Binding Capacity,Estimates Transferrin level,374.0,?g/dL,250-425,Quest
+12/22/16,Total Protein,Total protein amount (serum),7.6,g/dL,6.1-8.1,Quest
+12/22/16,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.5,,< OR = 5.0,Quest
+12/22/16,Total to HDL Ratio,Total Cholesterol to HDL Ratio,3.5,,,
+12/22/16,Triglycerides,Type of Fat,46.0,mg/dL,<150,Quest
+12/22/16,Triglycerides to HDL Ratio,Ratio of Triglycerides to HDL,0.7,,,
+12/22/16,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),91.0,ng/dL,76-181,Quest
+12/22/16,Vitamin B12,Essential nutrient for cells,477.0,pg/mL,200-1100,Quest
+12/22/16,White Blood Cell Count,Immune system cells,3.8,x10E3/?L,3.8-10.8,Quest
+12/22/16,Z score,IGF-1 compared to others,0.3,,-2.0 - +2.0,Quest
+12/22/16,eGFR,Marker for kidney function,108.0,mL/min/1.73m2,> OR = 60,Quest
+12/22/16,eGFR (African American ethnicity),eGFR if African American,125.0,mL/min/1.73m2,> OR = 60,Quest
+12/22/16,hs-CRP,General Inflammation Marker,0.2,mg/L,,Quest
+12/5/17,% Basophils,Part of WBC differential,1.9,%,,Quest
+12/5/17,% Eosinophils,Part of WBC differential,3.8,%,,Quest
+12/5/17,% Lymphocytes,Part of WBC differential,36.0,%,,Quest
+12/5/17,% Monocytes,Part of WBC differential,11.6,%,,Quest
+12/5/17,% Neutrophil,Part of WBC differential,46.7,%,,Quest
+12/5/17,25-Hydroxy Vitamin D,Precursor to vitamin D,49.0,ng/mL,30-100,Quest
+12/5/17,A/G Ratio,"Proportion, albumin/globulin",1.5,,1.0-2.5,Quest
+12/5/17,ALP,Alkaline Phosphatase,83.0,IU/L,40-115,Quest
+12/5/17,ALT / SGPT,Alanine aminotransferase,18.0,IU/L,9-46,Quest
+12/5/17,ALT / SGPT,Alanine aminotransferase,18.0,IU/L,9-46,Quest
+12/5/17,AST / SGOT,Aspartate aminotransferase,20.0,IU/L,10-40,Quest
+12/5/17,AST / SGOT,Aspartate aminotransferase,20.0,IU/L,10-40,Quest
+12/5/17,Albumin,Type of protein in blood,4.5,g/dL,3.6-5.1,Quest
+12/5/17,Apo A1,"Protein in HDL (""Good"") Cholesterol",162.0,mg/dL,,Quest
+12/5/17,Apo B,"Protein in LDL (""Bad"") Cholesterol",157.0,mg/dL,,Quest
+12/5/17,Arachidonic acid,Omega-6 fatty acid,8.2,%,5.2-12.9,Quest
+12/5/17,BUN,Blood Urea Nitrogen,21.0,mg/dL,7-25,Quest
+12/5/17,Basophil (absolute),Calculation of WBC type,0.07,x10E3/?L,0-200,Quest
+12/5/17,Bilirubin (total),Made by the liver to help digest fat.,0.5,mg/dL,0.2-1.2,Quest
+12/5/17,CO2,Carbon dioxide in blood,24.0,mmol/L,20-31,Quest
+12/5/17,Calcium,Blood and Bone Mineral,9.6,mg/dL,8.6-10.3,Quest
+12/5/17,Chloride,Balances other electrolytes,101.0,mmol/L,98-110,Quest
+12/5/17,Cortisol,Primary stress hormone,16.4,?g/dL,,Quest
+12/5/17,Creatinine,Creatinine in your blood,0.97,mg/dL,0.60-1.35,Quest
+12/5/17,Creatinine,Creatinine in your blood,0.97,mg/dL,0.60-1.35,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,DHEA-S,Adrenal Hormone,275.0,?g/dL,106-464,Quest
+12/5/17,Docosahexaenoic acid (DHA),Omega-3 fatty acid,3.0,%,1.2-3.9,Quest
+12/5/17,EPA:AA Ratio,"Ratio of two fatty acids ",0.3,,0.2 OR LESS,Quest
+12/5/17,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,2.2,%,0.2-1.5,Quest
+12/5/17,Eosinophil (absolute),Calculation of WBC type,0.141,x10E3/?L,15-500,Quest
+12/5/17,Estradiol,Main female sex hormone,50.0,pg/mL,< OR = 39,Quest
+12/5/17,Estradiol,Main female sex hormone,50.0,pg/mL,< OR = 39,Quest
+12/5/17,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
+12/5/17,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
+12/5/17,Ferritin,Iron storage protein,36.0,ng/mL,20-345,Quest
+12/5/17,Ferritin,Iron storage protein,36.0,ng/mL,20-345,Quest
+12/5/17,Fibrinogen,Inflammation marker important in blood clotting.,297.0,mg/dL,175-425,Quest
+12/5/17,Folate,Folic Acid,9.8,ng/mL,,Quest
+12/5/17,"Free Fatty Acids ",Fatty acids,0.47,mmol/L,0.07-0.88,Quest
+12/5/17,Free T3,Available T3,3.3,pg/mL,2.3-4.2,Quest
+12/5/17,Free T4,Available T4,1.3,ng/dL,0.8-1.8,Quest
+12/5/17,Free Testosterone,Active Unbound Testosterone,111.0,pg/mL,35.0-155.0,Quest
+12/5/17,Free Testosterone,Active Unbound Testosterone,111.0,pg/mL,35.0-155.0,Quest
+12/5/17,Free Thyroxine Index,A Thyroxine Index,3.2,,1.4-3.8,Quest
+12/5/17,Globulin,Immune protein,3.0,g/dL,1.9-3.7,Quest
+12/5/17,Glucose,Blood Sugar,87.0,mg/dL,65-99,Quest
+12/5/17,HDL,"""Good"" Cholesterol",64.0,mg/dL,>40,Quest
+12/5/17,Hematocrit,Fraction of red blood cells,44.8,%,38.5-50.0,Quest
+12/5/17,Hematocrit,Fraction of red blood cells,44.8,%,38.5-50.0,Quest
+12/5/17,Hemoglobin,Protein in red blood cells,14.7,g/dL,13.2-17.1,Quest
+12/5/17,Hemoglobin,Protein in red blood cells,14.7,g/dL,13.2-17.1,Quest
+12/5/17,Hemoglobin A1c (HbA1c),Average blood sugar level,5.3,%,<5.7,Quest
+12/5/17,Homocysteine,Inflammation marker,10.6,?mol/L,<11.4,Quest
+12/5/17,Insulin,Blood sugar storage hormone,1.5,mIU/L,2.0-19.6,Quest
+12/5/17,Insulin-Like Growth Factor I,A Measure of Growth Hormone,166.0,ng/mL,53-331,Quest
+12/5/17,Iron (serum),Iron in liquid part of blood,70.0,?g/dL,50-180,Quest
+12/5/17,Iron Saturation,The percent of Iron transport protein bound to Iron,19.0,%,15-60,Quest
+12/5/17,LDL,Less Healthy Low-Density Lipoprotein,222.0,mg/dL,,Quest
+12/5/17,LDL Particles,Number of LDL Particles,1942.0,nmol/L,1016-2185,Quest
+12/5/17,LDL Phenotype,LDL Size Pattern,A,Pattern,A,Quest
+12/5/17,Large HDL,Large High-Density Lipoprotein,5449.0,nmol/L,4334-10815,Quest
+12/5/17,Lp(a),Different Form of LDL,70.0,nmol/L,<75,Quest
+12/5/17,Luteinizing Hormone (LH),Sex Hormone,4.3,mIU/mL,1.5-9.3,Quest
+12/5/17,Luteinizing Hormone (LH),Sex Hormone,4.3,mIU/mL,1.5-9.3,Quest
+12/5/17,Lymphocyte Count (absolute),Calculation of WBC type,1.332,x10E3/?L,850-3900,Quest
+12/5/17,MCH,Mean cell hemoglobin,30.0,pg,27.0-33.0,Quest
+12/5/17,MCHC,RBC hemoglobin concentration,32.8,g/dL,32.0-36.0,Quest
+12/5/17,MCV,Mean corpuscular volume,91.4,fL,80.0-100.0,Quest
+12/5/17,Mean Platelet Volume (MPV),Average platelet size,9.8,fL,7.5-12.5,Quest
+12/5/17,Medium LDL,Medium Low-Density Lipoprotein,343.0,nmol/L,167-465,Quest
+12/5/17,Monocytes (absolute),type of white blood cell,0.429,x10E3/?L,200-950,Quest
+12/5/17,Neutrophil Count (ANC),Type of white blood cell,1.728,x10E3/?L,1500-7800,Quest
+12/5/17,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,238.0,mg/dL,<130,Quest
+12/5/17,Omega Index,Amount of omega-3 fatty acids,5.2,%,1.4-4.9,Quest
+12/5/17,Omega Risk,Risk based on omega profile,Low,,,Quest
+12/5/17,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,3.9,,5.7-21.3,Quest
+12/5/17,Peak LDL Size,The size of LDL particles,223.7,Angstrom,> OR = 218.2,Quest
+12/5/17,Platelet Count,Clot-forming cell fragments,263.0,x10E3/?L,140-400,Quest
+12/5/17,Potassium,"An electrolyte inside cells ",4.3,mmol/L,3.5-5.3,Quest
+12/5/17,Progesterone,,0.7,ng/mL,<1.4,Quest
+12/5/17,Progesterone,,0.7,ng/mL,<1.4,Quest
+12/5/17,RBC,Red blood cell count,4.9,x10E6/?L,4.20-5.80,Quest
+12/5/17,RBC,Red blood cell count,4.9,x10E6/?L,4.20-5.80,Quest
+12/5/17,RBC Magnesium,The Magnesium in our cells,5.0,mg/dL,4.0-6.4,Quest
+12/5/17,RDW,Red cell distribution width,11.9,%,11.0-15.0,Quest
+12/5/17,Reverse T3,"Reverse T3, Serum",29.0,ng/dL,8-25,Quest
+12/5/17,SHBG,Sex Hormone Binding Globulin,46.0,nmol/L,10-50,Quest
+12/5/17,SHBG,Sex Hormone Binding Globulin,46.0,nmol/L,10-50,Quest
+12/5/17,Small LDL,Small Low-Density Lipoprotein,197.0,nmol/L,123-441,Quest
+12/5/17,Sodium,An electrolyte outside cells,138.0,mmol/L,135-146,Quest
+12/5/17,T-Uptake,Thyroxine Binding Sites,30.0,%,22-35,Quest
+12/5/17,TSH,Thyroid-Stimulating Hormone,2.25,mIU/L,0.40-4.50,Quest
+12/5/17,Testosterone (total),Steroid hormone,766.0,ng/dL,250-1100,Quest
+12/5/17,Testosterone (total),Steroid hormone,766.0,ng/dL,250-1100,Quest
+12/5/17,Testosterone (total),Steroid hormone,766.0,ng/dL,250-1100,Quest
+12/5/17,Testosterone (total),Steroid hormone,766.0,ng/dL,250-1100,Quest
+12/5/17,Testosterone (total),Steroid hormone,766.0,ng/dL,250-1100,Quest
+12/5/17,Testosterone (total),Steroid hormone,766.0,ng/dL,250-1100,Quest
+12/5/17,"Thyroxine (T4, total)",Total thyroxine (T4) level,10.5,?g/dL,4.5-12.0,Quest
+12/5/17,Total Cholesterol,A Type of Fat,302.0,mg/dL,<200,Quest
+12/5/17,Total Iron Binding Capacity,Estimates Transferrin level,374.0,?g/dL,250-425,Quest
+12/5/17,Total Protein,Total protein amount (serum),7.5,g/dL,6.1-8.1,Quest
+12/5/17,Total to HDL Ratio,Total Cholesterol to HDL Ratio,4.7,,<5.0,Quest
+12/5/17,Triglycerides,Type of Fat,53.0,mg/dL,<150,Quest
+12/5/17,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),97.0,ng/dL,76-181,Quest
+12/5/17,Vitamin B12,Essential nutrient for cells,913.0,pg/mL,200-1100,Quest
+12/5/17,White Blood Cell Count,Immune system cells,3.7,x10E3/?L,3.8-10.8,Quest
+12/5/17,Z score,IGF-1 compared to others,0.3,,-2.0 - +2.0,Quest
+12/5/17,eGFR,Marker for kidney function,98.0,mL/min/1.73m2,> OR = 60,Quest
+12/5/17,eGFR (African American ethnicity),eGFR if African American,113.0,mL/min/1.73m2,> OR = 60,Quest
+12/5/17,hs-CRP,General Inflammation Marker,0.9,mg/L,,Quest
+6/27/18,% Basophils,Part of WBC differential,1.3,%,0-2,Quest
+6/27/18,% Eosinophils,Part of WBC differential,3.1,%,0-8,Quest
+6/27/18,% Lymphocytes,Part of WBC differential,36.5,%,15-49,Quest
+6/27/18,% Monocytes,Part of WBC differential,9.9,%,0-13,Quest
+6/27/18,% Neutrophil,Part of WBC differential,49.2,%,38-80,Quest
+6/27/18,25-Hydroxy Vitamin D,Precursor to vitamin D,42.0,ng/mL,30-100,Quest
+6/27/18,A/G Ratio,"Proportion, albumin/globulin",1.4,,1.0-2.5,Quest
+6/27/18,ALP,Alkaline Phosphatase,101.0,IU/L,40-115,Quest
+6/27/18,ALT / SGPT,Alanine aminotransferase,16.0,IU/L,9-46,Quest
+6/27/18,ALT / SGPT,Alanine aminotransferase,16.0,IU/L,9-46,Quest
+6/27/18,AST / SGOT,Aspartate aminotransferase,20.0,IU/L,10-40,Quest
+6/27/18,AST / SGOT,Aspartate aminotransferase,20.0,IU/L,10-40,Quest
+6/27/18,Albumin,Type of protein in blood,4.4,g/dL,3.6-5.1,Quest
+6/27/18,Apo A1,"Protein in HDL (""Good"") Cholesterol",171.0,mg/dL,,Quest
+6/27/18,Apo B,"Protein in LDL (""Bad"") Cholesterol",165.0,mg/dL,,Quest
+6/27/18,Arachidonic acid,Omega-6 fatty acid,12.1,%,5.2-12.9,Quest
+6/27/18,BUN,Blood Urea Nitrogen,25.0,mg/dL,7-25,Quest
+6/27/18,Basophil (absolute),Calculation of WBC type,0.051,x10E3/?L,0-200,Quest
+6/27/18,Bilirubin (total),Made by the liver to help digest fat.,0.7,mg/dL,0.2-1.2,Quest
+6/27/18,CO2,Carbon dioxide in blood,26.0,mmol/L,20-31,Quest
+6/27/18,Calcium,Blood and Bone Mineral,9.7,mg/dL,8.6-10.3,Quest
+6/27/18,Chloride,Balances other electrolytes,100.0,mmol/L,98-110,Quest
+6/27/18,Cortisol,Primary stress hormone,14.0,?g/dL,,Quest
+6/27/18,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+6/27/18,Creatinine,Creatinine in your blood,1.0,mg/dL,0.60-1.35,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,DHEA-S,Adrenal Hormone,362.0,?g/dL,106-464,Quest
+6/27/18,Docosahexaenoic acid (DHA),Omega-3 fatty acid,3.3,%,1.2-3.9,Quest
+6/27/18,EPA:AA Ratio,"Ratio of two fatty acids ",0.1,,0.2 OR LESS,Quest
+6/27/18,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,1.1,%,0.2-1.5,Quest
+6/27/18,Eosinophil (absolute),Calculation of WBC type,0.121,x10E3/?L,15-500,Quest
+6/27/18,Estradiol,Main female sex hormone,46.0,pg/mL,< OR = 39,Quest
+6/27/18,Estradiol,Main female sex hormone,46.0,pg/mL,< OR = 39,Quest
+6/27/18,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
+6/27/18,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
+6/27/18,Ferritin,Iron storage protein,87.0,ng/mL,20-380,Quest
+6/27/18,Ferritin,Iron storage protein,87.0,ng/mL,20-380,Quest
+6/27/18,Fibrinogen,Inflammation marker important in blood clotting.,367.0,mg/dL,175-425,Quest
+6/27/18,Folate,Folic Acid,7.3,ng/mL,,Quest
+6/27/18,"Free Fatty Acids ",Fatty acids,0.4,mmol/L,0.07-0.88,Quest
+6/27/18,Free T3,Available T3,2.7,pg/mL,2.3-4.2,Quest
+6/27/18,Free T4,Available T4,1.3,ng/dL,0.8-1.8,Quest
+6/27/18,Free Testosterone,Active Unbound Testosterone,156.3,pg/mL,35.0-155.0,Quest
+6/27/18,Free Testosterone,Active Unbound Testosterone,156.3,pg/mL,35.0-155.0,Quest
+6/27/18,Free Thyroxine Index,A Thyroxine Index,2.4,,1.4-3.8,Quest
+6/27/18,Globulin,Immune protein,3.1,g/dL,1.9-3.7,Quest
+6/27/18,Glucose,Blood Sugar,83.0,mg/dL,65-99,Quest
+6/27/18,HDL,"""Good"" Cholesterol",68.0,mg/dL,>40,Quest
+6/27/18,HOMA-IR SCORE,Predicting risk of insulin resistance and diabetes,0.3,,,
+6/27/18,Hematocrit,Fraction of red blood cells,47.4,%,38.5-50.0,Quest
+6/27/18,Hematocrit,Fraction of red blood cells,47.4,%,38.5-50.0,Quest
+6/27/18,Hemoglobin,Protein in red blood cells,15.8,g/dL,13.2-17.1,Quest
+6/27/18,Hemoglobin,Protein in red blood cells,15.8,g/dL,13.2-17.1,Quest
+6/27/18,Hemoglobin A1c (HbA1c),Average blood sugar level,5.4,%,<5.7,Quest
+6/27/18,Homocysteine,Inflammation marker,10.6,?mol/L,<11.4,Quest
+6/27/18,Insulin,Blood sugar storage hormone,1.6,mIU/L,2.0-19.6,Quest
+6/27/18,Insulin-Like Growth Factor I,A Measure of Growth Hormone,180.0,ng/mL,52-328,Quest
+6/27/18,Iron (serum),Iron in liquid part of blood,137.0,?g/dL,50-180,Quest
+6/27/18,Iron Saturation,The percent of Iron transport protein bound to Iron,38.0,%,15-60,Quest
+6/27/18,LDL,Less Healthy Low-Density Lipoprotein,257.0,mg/dL,,Quest
+6/27/18,LDL Particles,Number of LDL Particles,2671.0,nmol/L,732-2035,Quest
+6/27/18,LDL Phenotype,LDL Size Pattern,A,Pattern,A,Quest
+6/27/18,Large HDL,Large High-Density Lipoprotein,6213.0,nmol/L,3382-9376,Quest
+6/27/18,Lp(a),Different Form of LDL,76.0,nmol/L,<75,Quest
+6/27/18,Luteinizing Hormone (LH),Sex Hormone,3.6,mIU/mL,1.5-9.3,Quest
+6/27/18,Luteinizing Hormone (LH),Sex Hormone,3.6,mIU/mL,1.5-9.3,Quest
+6/27/18,Lymphocyte Count (absolute),Calculation of WBC type,1.424,x10E3/?L,850-3900,Quest
+6/27/18,MCH,Mean cell hemoglobin,29.8,pg,27.0-33.0,Quest
+6/27/18,MCHC,RBC hemoglobin concentration,33.3,g/dL,32.0-36.0,Quest
+6/27/18,MCV,Mean corpuscular volume,89.3,fL,80.0-100.0,Quest
+6/27/18,Mean Platelet Volume (MPV),Average platelet size,9.0,fL,7.5-12.5,Quest
+6/27/18,Medium LDL,Medium Low-Density Lipoprotein,469.0,nmol/L,122-498,Quest
+6/27/18,Monocytes (absolute),type of white blood cell,0.386,x10E3/?L,200-950,Quest
+6/27/18,Neutrophil Count (ANC),Type of white blood cell,1.919,x10E3/?L,1500-7800,Quest
+6/27/18,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,271.0,mg/dL,<130,Quest
+6/27/18,Omega Index,Amount of omega-3 fatty acids,4.4,%,1.4-4.9,Quest
+6/27/18,Omega Risk,Risk based on omega profile,Low,,,Quest
+6/27/18,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,6.2,,5.7-21.3,Quest
+6/27/18,Peak LDL Size,The size of LDL particles,225.6,Angstrom,> OR = 217.4,Quest
+6/27/18,Platelet Count,Clot-forming cell fragments,290.0,x10E3/?L,140-400,Quest
+6/27/18,Potassium,"An electrolyte inside cells ",4.0,mmol/L,3.5-5.3,Quest
+6/27/18,Progesterone,,0.6,ng/mL,<1.4,Quest
+6/27/18,Progesterone,,0.6,ng/mL,<1.4,Quest
+6/27/18,RBC,Red blood cell count,5.31,x10E6/?L,4.20-5.80,Quest
+6/27/18,RBC,Red blood cell count,5.31,x10E6/?L,4.20-5.80,Quest
+6/27/18,RBC Magnesium,The Magnesium in our cells,4.7,mg/dL,4.0-6.4,Quest
+6/27/18,RDW,Red cell distribution width,12.1,%,11.0-15.0,Quest
+6/27/18,Reverse T3,"Reverse T3, Serum",22.0,ng/dL,8-25,Quest
+6/27/18,SHBG,Sex Hormone Binding Globulin,48.0,nmol/L,10-50,Quest
+6/27/18,SHBG,Sex Hormone Binding Globulin,48.0,nmol/L,10-50,Quest
+6/27/18,Small LDL,Small Low-Density Lipoprotein,252.0,nmol/L,85-473,Quest
+6/27/18,Sodium,An electrolyte outside cells,136.0,mmol/L,135-146,Quest
+6/27/18,T-Uptake,Thyroxine Binding Sites,29.0,%,22-35,Quest
+6/27/18,TSH,Thyroid-Stimulating Hormone,2.27,mIU/L,0.40-4.50,Quest
+6/27/18,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+6/27/18,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+6/27/18,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+6/27/18,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+6/27/18,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+6/27/18,Testosterone (total),Steroid hormone,945.0,ng/dL,250-1100,Quest
+6/27/18,"Thyroxine (T4, total)",Total thyroxine (T4) level,8.4,?g/dL,4.5-12.0,Quest
+6/27/18,Total Cholesterol,A Type of Fat,339.0,mg/dL,<200,Quest
+6/27/18,Total Iron Binding Capacity,Estimates Transferrin level,364.0,?g/dL,250-425,Quest
+6/27/18,Total Protein,Total protein amount (serum),7.5,g/dL,6.1-8.1,Quest
+6/27/18,Total to HDL Ratio,Total Cholesterol to HDL Ratio,5.0,,<5.0,Quest
+6/27/18,Total to HDL Ratio,Total Cholesterol to HDL Ratio,5.0,,,
+6/27/18,Triglycerides,Type of Fat,43.0,mg/dL,<150,Quest
+6/27/18,Triglycerides to HDL Ratio,Ratio of Triglycerides to HDL,0.6,,,
+6/27/18,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),87.0,ng/dL,76-181,Quest
+6/27/18,Vitamin B12,Essential nutrient for cells,1164.0,pg/mL,200-1100,Quest
+6/27/18,White Blood Cell Count,Immune system cells,3.9,x10E3/?L,3.8-10.8,Quest
+6/27/18,Z score,IGF-1 compared to others,0.5,,-2.0 - +2.0,Quest
+6/27/18,eGFR,Marker for kidney function,94.0,mL/min/1.73m2,> OR = 60,Quest
+6/27/18,eGFR (African American ethnicity),eGFR if African American,109.0,mL/min/1.73m2,> OR = 60,Quest
+6/27/18,hs-CRP,General Inflammation Marker,1.0,mg/L,,Quest
+1/21/19,% Basophils,Part of WBC differential,1.2,%,0-2,Quest
+1/21/19,% Eosinophils,Part of WBC differential,2.5,%,0-8,Quest
+1/21/19,% Lymphocytes,Part of WBC differential,34.9,%,15-49,Quest
+1/21/19,% Monocytes,Part of WBC differential,10.9,%,0-13,Quest
+1/21/19,% Neutrophil,Part of WBC differential,50.5,%,38-80,Quest
+1/21/19,25-Hydroxy Vitamin D,Precursor to vitamin D,64.0,ng/mL,30-100,Quest
+1/21/19,A/G Ratio,"Proportion, albumin/globulin",1.7,,1.0-2.5,Quest
+1/21/19,ALP,Alkaline Phosphatase,73.0,IU/L,40-115,Quest
+1/21/19,ALT / SGPT,Alanine aminotransferase,37.0,IU/L,9-46,Quest
+1/21/19,ALT / SGPT,Alanine aminotransferase,37.0,IU/L,9-46,Quest
+1/21/19,AST / SGOT,Aspartate aminotransferase,29.0,IU/L,10-40,Quest
+1/21/19,AST / SGOT,Aspartate aminotransferase,29.0,IU/L,10-40,Quest
+1/21/19,Albumin,Type of protein in blood,4.7,g/dL,3.6-5.1,Quest
+1/21/19,Apo A1,"Protein in HDL (""Good"") Cholesterol",164.0,mg/dL,,Quest
+1/21/19,Apo B,"Protein in LDL (""Bad"") Cholesterol",177.0,mg/dL,,Quest
+1/21/19,Arachidonic acid,Omega-6 fatty acid,13.0,%,5.2-12.9,Quest
+1/21/19,BUN,Blood Urea Nitrogen,19.0,mg/dL,7-25,Quest
+1/21/19,Basophil (absolute),Calculation of WBC type,0.048,x10E3/?L,0-200,Quest
+1/21/19,Bilirubin (total),Made by the liver to help digest fat.,0.6,mg/dL,0.2-1.2,Quest
+1/21/19,CO2,Carbon dioxide in blood,25.0,mmol/L,20-32,Quest
+1/21/19,Calcium,Blood and Bone Mineral,9.5,mg/dL,8.6-10.3,Quest
+1/21/19,Chloride,Balances other electrolytes,100.0,mmol/L,98-110,Quest
+1/21/19,Cortisol,Primary stress hormone,9.0,?g/dL,,Quest
+1/21/19,Creatinine,Creatinine in your blood,0.85,mg/dL,0.60-1.35,Quest
+1/21/19,Creatinine,Creatinine in your blood,0.85,mg/dL,0.60-1.35,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,DHEA-S,Adrenal Hormone,356.0,?g/dL,106-464,Quest
+1/21/19,Docosahexaenoic acid (DHA),Omega-3 fatty acid,3.5,%,1.2-3.9,Quest
+1/21/19,EPA:AA Ratio,"Ratio of two fatty acids ",0.2,,0.2 OR LESS,Quest
+1/21/19,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,2.9,%,0.2-1.5,Quest
+1/21/19,Eosinophil (absolute),Calculation of WBC type,0.1,x10E3/?L,15-500,Quest
+1/21/19,Estradiol,Main female sex hormone,57.0,pg/mL,< OR = 39,Quest
+1/21/19,Estradiol,Main female sex hormone,57.0,pg/mL,< OR = 39,Quest
+1/21/19,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
+1/21/19,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
+1/21/19,Ferritin,Iron storage protein,109.0,ng/mL,20-380,Quest
+1/21/19,Ferritin,Iron storage protein,109.0,ng/mL,20-380,Quest
+1/21/19,Fibrinogen,Inflammation marker important in blood clotting.,269.0,mg/dL,175-425,Quest
+1/21/19,Folate,Folic Acid,8.6,ng/mL,,Quest
+1/21/19,"Free Fatty Acids ",Fatty acids,0.51,mmol/L,0.07-0.88,Quest
+1/21/19,Free T3,Available T3,3.1,pg/mL,2.3-4.2,Quest
+1/21/19,Free T4,Available T4,1.5,ng/dL,0.8-1.8,Quest
+1/21/19,Free Testosterone,Active Unbound Testosterone,152.4,pg/mL,35.0-155.0,Quest
+1/21/19,Free Testosterone,Active Unbound Testosterone,152.4,pg/mL,35.0-155.0,Quest
+1/21/19,Free Thyroxine Index,A Thyroxine Index,3.3,,1.4-3.8,Quest
+1/21/19,Globulin,Immune protein,2.7,g/dL,1.9-3.7,Quest
+1/21/19,Glucose,Blood Sugar,90.0,mg/dL,65-99,Quest
+1/21/19,HDL,"""Good"" Cholesterol",66.0,mg/dL,>40,Quest
+1/21/19,HOMA-IR SCORE,Predicting risk of insulin resistance and diabetes,0.7,,,
+1/21/19,Hematocrit,Fraction of red blood cells,46.4,%,38.5-50.0,Quest
+1/21/19,Hematocrit,Fraction of red blood cells,46.4,%,38.5-50.0,Quest
+1/21/19,Hemoglobin,Protein in red blood cells,15.8,g/dL,13.2-17.1,Quest
+1/21/19,Hemoglobin,Protein in red blood cells,15.8,g/dL,13.2-17.1,Quest
+1/21/19,Hemoglobin A1c (HbA1c),Average blood sugar level,5.5,%,<5.7,Quest
+1/21/19,Homocysteine,Inflammation marker,9.8,?mol/L,<11.4,Quest
+1/21/19,Insulin,Blood sugar storage hormone,3.3,mIU/L,2.0-19.6,Quest
+1/21/19,Insulin-Like Growth Factor I,A Measure of Growth Hormone,187.0,ng/mL,52-328,Quest
+1/21/19,Iron (serum),Iron in liquid part of blood,129.0,?g/dL,50-180,Quest
+1/21/19,Iron Saturation,The percent of Iron transport protein bound to Iron,35.0,%,15-60,Quest
+1/21/19,LDL,Less Healthy Low-Density Lipoprotein,278.0,mg/dL,,Quest
+1/21/19,LDL Particles,Number of LDL Particles,2800.0,nmol/L,732-2035,Quest
+1/21/19,LDL Phenotype,LDL Size Pattern,A,Pattern,A,Quest
+1/21/19,Large HDL,Large High-Density Lipoprotein,6466.0,nmol/L,3382-9376,Quest
+1/21/19,Lp(a),Different Form of LDL,50.0,nmol/L,<75,Quest
+1/21/19,Luteinizing Hormone (LH),Sex Hormone,3.6,mIU/mL,1.5-9.3,Quest
+1/21/19,Luteinizing Hormone (LH),Sex Hormone,3.6,mIU/mL,1.5-9.3,Quest
+1/21/19,Lymphocyte Count (absolute),Calculation of WBC type,1.396,x10E3/?L,850-3900,Quest
+1/21/19,MCH,Mean cell hemoglobin,30.7,pg,27.0-33.0,Quest
+1/21/19,MCHC,RBC hemoglobin concentration,34.1,g/dL,32.0-36.0,Quest
+1/21/19,MCV,Mean corpuscular volume,90.1,fL,80.0-100.0,Quest
+1/21/19,Mean Platelet Volume (MPV),Average platelet size,9.4,fL,7.5-12.5,Quest
+1/21/19,Medium LDL,Medium Low-Density Lipoprotein,567.0,nmol/L,122-498,Quest
+1/21/19,Monocytes (absolute),type of white blood cell,0.436,x10E3/?L,200-950,Quest
+1/21/19,Neutrophil Count (ANC),Type of white blood cell,2.02,x10E3/?L,1500-7800,Quest
+1/21/19,Non-HDL Cholesterol (Calculated),All Less Healthy Cholesterol,294.0,mg/dL,<130,Quest
+1/21/19,Omega Index,Amount of omega-3 fatty acids,6.4,%,1.4-4.9,Quest
+1/21/19,Omega Risk,Risk based on omega profile,Low,,,Quest
+1/21/19,Omega-6:Omega-3 Ratio,unsaturated fatty acid ratio,3.8,,5.7-21.3,Quest
+1/21/19,Peak LDL Size,The size of LDL particles,224.2,Angstrom,> OR = 217.4,Quest
+1/21/19,Platelet Count,Clot-forming cell fragments,280.0,x10E3/?L,140-400,Quest
+1/21/19,Potassium,"An electrolyte inside cells ",4.2,mmol/L,3.5-5.3,Quest
+1/21/19,Progesterone,,0.6,ng/mL,<1.4,Quest
+1/21/19,Progesterone,,0.6,ng/mL,<1.4,Quest
+1/21/19,RBC,Red blood cell count,5.15,x10E6/?L,4.20-5.80,Quest
+1/21/19,RBC,Red blood cell count,5.15,x10E6/?L,4.20-5.80,Quest
+1/21/19,RBC Magnesium,The Magnesium in our cells,5.2,mg/dL,4.0-6.4,Quest
+1/21/19,RDW,Red cell distribution width,12.5,%,11.0-15.0,Quest
+1/21/19,Reverse T3,"Reverse T3, Serum",24.0,ng/dL,8-25,Quest
+1/21/19,SHBG,Sex Hormone Binding Globulin,43.0,nmol/L,10-50,Quest
+1/21/19,SHBG,Sex Hormone Binding Globulin,43.0,nmol/L,10-50,Quest
+1/21/19,Small LDL,Small Low-Density Lipoprotein,290.0,nmol/L,85-473,Quest
+1/21/19,Sodium,An electrolyte outside cells,137.0,mmol/L,135-146,Quest
+1/21/19,T-Uptake,Thyroxine Binding Sites,32.0,%,22-35,Quest
+1/21/19,TSH,Thyroid-Stimulating Hormone,2.08,mIU/L,0.40-4.50,Quest
+1/21/19,Testosterone (total),Steroid hormone,1010.0,ng/dL,250-1100,Quest
+1/21/19,Testosterone (total),Steroid hormone,1010.0,ng/dL,250-1100,Quest
+1/21/19,Testosterone (total),Steroid hormone,1010.0,ng/dL,250-1100,Quest
+1/21/19,Testosterone (total),Steroid hormone,1010.0,ng/dL,250-1100,Quest
+1/21/19,Testosterone (total),Steroid hormone,1010.0,ng/dL,250-1100,Quest
+1/21/19,Testosterone (total),Steroid hormone,1010.0,ng/dL,250-1100,Quest
+1/21/19,"Thyroxine (T4, total)",Total thyroxine (T4) level,10.3,?g/dL,4.9-10.5,Quest
+1/21/19,Total Cholesterol,A Type of Fat,360.0,mg/dL,<200,Quest
+1/21/19,Total Iron Binding Capacity,Estimates Transferrin level,372.0,?g/dL,250-425,Quest
+1/21/19,Total Protein,Total protein amount (serum),7.4,g/dL,6.1-8.1,Quest
+1/21/19,Total to HDL Ratio,Total Cholesterol to HDL Ratio,5.5,,<5.0,Quest
+1/21/19,Total to HDL Ratio,Total Cholesterol to HDL Ratio,5.5,,,
+1/21/19,Triglycerides,Type of Fat,49.0,mg/dL,<150,Quest
+1/21/19,Triglycerides to HDL Ratio,Ratio of Triglycerides to HDL,0.7,,,
+1/21/19,"Triiodothyronine (T3, total)",Total triiodothyronine (T3),99.0,ng/dL,76-181,Quest
+1/21/19,Vitamin B12,Essential nutrient for cells,1851.0,pg/mL,200-1100,Quest
+1/21/19,White Blood Cell Count,Immune system cells,4.0,x10E3/?L,3.8-10.8,Quest
+1/21/19,Z score,IGF-1 compared to others,0.6,,-2.0 - +2.0,Quest
+1/21/19,eGFR,Marker for kidney function,109.0,mL/min/1.73m2,> OR = 60,Quest
+1/21/19,eGFR (African American ethnicity),eGFR if African American,126.0,mL/min/1.73m2,> OR = 60,Quest
+1/21/19,hs-CRP,General Inflammation Marker,0.4,mg/L,,Quest
