@@ -1,8 +1,9 @@
+
 <html>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Ravi Shrestha - WellnessFX report</title>
+        <title>D3 Multiple Line</title>
         <style>
             body {
                 margin: 0;
@@ -71,8 +72,8 @@
             </ul>
             <div class="chart-container">
                 <p>Notes:</p>
-                <p>* data analyzed via WellnessFX/Quest Lab (<a href="https://www.wellnessfx.com/premium" target="_blank">https://www.wellnessfx.com/premium</a>)</p>
-                <p>* hover over the circle to see the details or select a particular marker on the side bar</p>
+                <p>* data analyzed via WellnessFX/Quest Labs (<a href="https://www.wellnessfx.com/premium" target="_blank">https://www.wellnessfx.com/premium</a>)</p>
+                <p>* hover on the circle to see the details or select a particular marker on the side bar</p>
                 <div id="chart">
                     <div class="chart-tooltip"></div>
                 </div>
@@ -300,7 +301,7 @@
                         'Draw Date: ' + d['Draw Date'])
                         .style('display', 'block')
                         .style('left', (xScale(new Date(d['Draw Date'])) + 100) > width ? (xScale(new Date(d['Draw Date'])) - 200) : xScale(new Date(d['Draw Date'])) + 'px')
-                        .style('top', (d3.event.offsetY + 200) > window.innerHeight ? (d3.event.offsetY - 150) : (d3.event.offsetY + 50) + 'px');
+                        .style('top', (d3.event.offsetY + 300) > window.innerHeight ? (d3.event.offsetY - 50) : (d3.event.offsetY + 150) + 'px');
                     })
                     .on("mouseout", function(d) {
                         d3.select(this) 
