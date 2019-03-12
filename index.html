@@ -1,0 +1,343 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>D3 Multiple Line</title>
+        <style>
+            body {
+                margin: 0;
+                font-family: 'Courier New', Courier, monospace;
+                overflow-x: hidden;
+            }
+            .content {
+                display: flex;
+                justify-content: space-between;
+            }
+            #chart {
+                flex: 1;
+            }
+            #dropdown {
+                margin: 0;
+                padding: 0;
+                background-color: #dddddd;
+                height: 100vh;
+                overflow-y: auto;
+                width: 270px;
+                box-shadow: 2px 0 5px #dddddd;
+            }
+            #dropdown li {
+                list-style: none;
+                padding: 10px;
+                cursor: pointer;
+            }
+            #dropdown li.selected {
+                background-color: #999999;
+            }
+            #dropdown #all {
+                font-weight: 600;
+            }
+            svg {
+                font-family: Sans-Serif, Arial;
+            }
+            .line {
+                stroke-width: 2;
+                fill: none;
+                cursor: pointer;
+            }
+            .axis path {
+                stroke: black;
+            }
+            .chart-tooltip {
+                position: absolute;
+                background: #555555;
+                border-radius: 5px;
+                color: white;
+                box-shadow: 0 2px 4px #aaaaaa;
+                padding: 10px 15px;
+                display: none;
+            }
+            .chart-container {
+                width: 100%;
+            }
+            .chart-container p {
+                padding-left: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <ul id="dropdown">
+                <li id="all" class="selected">Show All</li>
+            </ul>
+            <div class="chart-container">
+                <p>Notes:</p>
+                <p>* data analyzed via WellnessFX/Quest Labs (<a href="https://www.wellnessfx.com/premium" target="_blank">https://www.wellnessfx.com/premium</a>)</p>
+                <p>* hover on the circle to see the details or select a particular marker on the side bar</p>
+                <div id="chart">
+                    <div class="chart-tooltip"></div>
+                </div>
+            </div>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script>
+        var margin = {
+            top: 40,
+            right: 30,
+            bottom: 40,
+            left: 30
+        };
+        
+        var duration = 250;
+        var lineOpacity = "0.25";
+        var lineOpacityHover = "0.85";
+        var otherLinesOpacityHover = "0.1";
+        var lineStroke = 2;
+        var lineStrokeHover = 3;
+
+        var circleOpacity = '0.85';
+        var circleOpacityOnLineHover = "0.25"
+        var circleRadius = 3;
+        var circleRadiusHover = 8;
+
+        d3.csv('data.csv', function(data) {
+            var groupData = {};
+            var filteredData = [];
+            var parseDate = d3.timeFormat('%Y-%m-%d');
+            var firstDate = null;
+            var lastDate = null;
+            var units = [];
+            data.forEach(d => {
+                if (units.indexOf(d.Units) < 0) {
+                    units.push(d.Units);
+                }
+                d.Value = +d.Value;
+                if (d.Value) {
+                    if (!lastDate || new Date(d['Draw Date']) > lastDate) {
+                        lastDate = new Date(d['Draw Date']);
+                    }
+                    if (!firstDate || new Date(d['Draw Date']) < firstDate) {
+                        firstDate = new Date(d['Draw Date']);
+                    }
+                    // d['Draw Date'] = parseDate(new Date(d['Draw Date']));
+                    if (groupData[d['Marker Name']]) {
+                        groupData[d['Marker Name']].push(d);
+                    } else {
+                        groupData[d['Marker Name']] = [d];
+                    }
+                }
+            });
+            Object.keys(groupData).forEach((key, index) => {
+                var maxVal = d3.max(groupData[key], d => d.Value);
+                if (maxVal >= 20) {
+                    groupData[key].forEach(d => {
+                        d.Value = d.Value * 20 / maxVal;
+                        d.ScaleVal = maxVal / 20;
+                    });
+                }
+                filteredData.push({
+                    name: key,
+                    values: groupData[key]
+                });
+            });
+            Object.keys(groupData).sort().forEach(key => {
+                d3.select('#dropdown').append('li')
+                .html(key)
+                .on('click', function() {
+                    d3.selectAll('#dropdown li').attr('class', '');
+                    d3.select(this).attr('class', 'selected');
+                    drawChart(d3.select(this).html());
+                });
+            });
+            d3.select('#dropdown #all')
+            .on('click', function() {
+                d3.selectAll('#dropdown li').attr('class', '');
+                d3.select('#dropdown #all').attr('class', 'selected');
+                drawChart();
+            });
+
+            function drawChart(filterVal) {
+                var data = [];
+                if (filterVal) {
+                    data = filteredData.filter(f => f.name === filterVal);
+                } else {
+                    data = filteredData;
+                }
+                d3.selectAll('#chart svg').remove();
+                var width = $('#chart').width() - margin.left - margin.right;
+                var height = window.innerHeight - margin.top - margin.bottom - 150;
+                
+                /* Scale */
+                var xScale = d3.scaleTime()
+                .domain([firstDate, lastDate])
+                .range([20, width]);
+
+                var yScale = d3.scaleLinear()
+                .domain([0, 20])
+                .range([height, 0]);
+
+                var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+                /* Add SVG */
+                var svg = d3.select("#chart").append("svg")
+                .attr("width", (width+margin.left+margin.right)+"px")
+                .attr("height", (height+margin.top+margin.bottom)+"px")
+                .append('g')
+                .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+
+                /* Add line into SVG */
+                var line = d3.line()
+                .x(d => xScale(new Date(d['Draw Date'])))
+                .y(d => yScale(d.Value));
+
+                var lines = svg.append('g')
+                .attr('class', 'lines');
+
+                lines.selectAll('.line-group')
+                .data(data).enter()
+                .append('g')
+                .attr('class', 'line-group')  
+                // .on("mouseover", function(d, i) {
+                //     svg.append("text")
+                //         .attr("class", "title-text")
+                //         .style("fill", color(i))        
+                //         .text(d.name)
+                //         .attr("text-anchor", "middle")
+                //         .attr("x", width/2)
+                //         .attr("y", -10)
+                //         .style('font-size', 20);
+                //     })
+                .on("mouseup", function(d, i) {
+                    svg.selectAll(".title-text").remove();
+                    svg.append("text")
+                        .attr("class", "title-text")
+                        .style("fill", color(i))        
+                        .text(d.name)
+                        .attr("text-anchor", "middle")
+                        .attr("x", width/2)
+                        .attr("y", -20)
+                        .style('font-size', 20);
+                    svg.append("text")
+                        .attr("class", "title-text")
+                        .style("fill", color(i))        
+                        .text(d.name)
+                        .attr("text-anchor", "middle")
+                        .attr("x", width/2)
+                        .attr("y", height + 35)
+                        .style('font-size', 20);
+                    })
+                // .on("mouseout", function(d) {
+                //     svg.select(".title-text").remove();
+                // })
+                .append('path')
+                .attr('class', 'line')  
+                .attr('d', d => line(d.values))
+                .style('stroke', (d, i) => color(i))
+                .style('opacity', lineOpacity)
+                .on("mouseup", function(d) {
+                    d3.selectAll('.line')
+                                    .style('opacity', otherLinesOpacityHover);
+                    d3.selectAll('.circle')
+                                    .style('opacity', circleOpacityOnLineHover);
+                    d3.select(this)
+                        .style('opacity', lineOpacityHover)
+                        .style("stroke-width", lineStrokeHover)
+                        .style("cursor", "pointer");
+                    })
+                // .on("mouseout", function(d) {
+                //     d3.selectAll(".line")
+                //                     .style('opacity', lineOpacity);
+                //     d3.selectAll('.circle')
+                //                     .style('opacity', circleOpacity);
+                //     d3.select(this)
+                //         .style("stroke-width", lineStroke)
+                //         .style("cursor", "none");
+                //     });
+
+
+                /* Add circles in the line */
+                lines.selectAll("circle-group")
+                .data(data).enter()
+                .append("g")
+                .style("fill", (d, i) => color(i))
+                .selectAll("circle")
+                .data(d => d.values).enter()
+                .append("g")
+                .attr("class", "circle")  
+                .on("mouseover", function(d) {
+                    // d3.select(this)     
+                    //     .style("cursor", "pointer")
+                    //     .append("text")
+                    //     .attr("class", "text")
+                    //     .text(`${d.Value}`)
+                    //     .attr("x", d => xScale(new Date(d['Draw Date'])) + 5)
+                    //     .attr("y", d => yScale(d.Value) - 10);
+                    })
+                .on("mouseout", function(d) {
+                    d3.select(this)
+                        .style("cursor", "none")  
+                        .transition()
+                        .duration(duration)
+                        .selectAll(".text").remove();
+                    })
+                .append("circle")
+                .attr("cx", d => xScale(new Date(d['Draw Date'])))
+                .attr("cy", d => yScale(d.Value))
+                .attr("r", circleRadius)
+                .style('opacity', circleOpacity)
+                .on("mouseover", function(d, index) {
+                        d3.select(this)
+                        .transition()
+                        .duration(duration)
+                        .attr("r", circleRadiusHover);
+                        d3.selectAll('.chart-tooltip')
+                        .html('Name: ' + d['Marker Name'] + '<br>' + 
+                        'Description: ' + d['Marker Description'] + '<br>' + 
+                        'Value: ' + (d.ScaleVal ? (d.Value * d.ScaleVal).toFixed(3) : d.Value.toFixed(3)) + d.Units + '<br>' +
+                        'Source: ' + d.Source + '<br>' +
+                        'Reference Range: ' + d['Reference Range'] + '<br>' +
+                        'Draw Date: ' + d['Draw Date'])
+                        .style('display', 'block')
+                        .style('left', (xScale(new Date(d['Draw Date'])) + 100) > width ? (xScale(new Date(d['Draw Date'])) - 200) : xScale(new Date(d['Draw Date'])) + 'px')
+                        .style('top', (d3.event.offsetY + 200) > window.innerHeight ? (d3.event.offsetY - 150) : (d3.event.offsetY + 50) + 'px');
+                    })
+                    .on("mouseout", function(d) {
+                        d3.select(this) 
+                        .transition()
+                        .duration(duration)
+                        .attr("r", circleRadius); 
+                        d3.selectAll('.chart-tooltip')
+                        .html('')
+                        .style('display', 'none');
+                    });
+
+
+                /* Add Axis into SVG */
+                var xAxis = d3.axisBottom(xScale).ticks(10);
+                var yAxis = d3.axisLeft(yScale).ticks(5);
+
+                svg.append("g")
+                .attr("class", "x axis")
+                .attr("transform", `translate(0, ${height})`)
+                .call(xAxis);
+
+                svg.append("g")
+                .attr("class", "y axis")
+                .call(yAxis)
+                // .append('text')
+                // .attr("y", 15)
+                // .attr("transform", "rotate(-90)")
+                // .attr("fill", "#000")
+                // .text("Total values");
+            }
+
+            drawChart();
+
+            $(window).on('resize', function() {
+                drawChart();
+            });
+        });
+        </script>
+    </body>
+</html>
