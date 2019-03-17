@@ -91,10 +91,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 1/4/14,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,1.0,%,<2.3,Quest
 1/4/14,Eosinophil (absolute),Calculation of WBC type,0.158,x10E3/?L,15-500,Quest
 1/4/14,Eosinophil (absolute),Calculation of WBC type,0.158,x10E3/?L,15-500,Quest
-1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
-1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
-1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
-1/4/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
 1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
 1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
 1/4/14,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
@@ -301,8 +297,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 12/17/14,EPA:AA Ratio,"Ratio of two fatty acids ",0.7,,0.2-7.0,Quest
 12/17/14,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,0.9,%,<2.3,Quest
 12/17/14,Eosinophil (absolute),Calculation of WBC type,0.136,x10E3/?L,15-500,Quest
-12/17/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
-12/17/14,Estradiol,Main female sex hormone,41.0,pg/mL,< OR = 39,Quest
 12/17/14,FSH,Follicle-stimulating hormone,2.6,mIU/mL,1.6-8.0,Quest
 12/17/14,FSH,Follicle-stimulating hormone,2.6,mIU/mL,1.6-8.0,Quest
 12/17/14,Ferritin,Iron storage protein,100.0,ng/mL,20-345,Quest
@@ -431,8 +425,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 1/11/16,EPA:AA Ratio,"Ratio of two fatty acids ",0.1,,0.2 OR LESS,Quest
 1/11/16,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,0.5,%,0.2-1.5,Quest
 1/11/16,Eosinophil (absolute),Calculation of WBC type,0.113,x10E3/?L,15-500,Quest
-1/11/16,Estradiol,Main female sex hormone,31.0,pg/mL,< OR = 39,Quest
-1/11/16,Estradiol,Main female sex hormone,31.0,pg/mL,< OR = 39,Quest
 1/11/16,FSH,Follicle-stimulating hormone,2.8,mIU/mL,1.6-8.0,Quest
 1/11/16,FSH,Follicle-stimulating hormone,2.8,mIU/mL,1.6-8.0,Quest
 1/11/16,Ferritin,Iron storage protein,97.0,ng/mL,20-345,Quest
@@ -561,8 +553,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 12/22/16,EPA:AA Ratio,"Ratio of two fatty acids ",0.1,,0.2 OR LESS,Quest
 12/22/16,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,1.0,%,0.2-1.5,Quest
 12/22/16,Eosinophil (absolute),Calculation of WBC type,0.198,x10E3/?L,15-500,Quest
-12/22/16,Estradiol,Main female sex hormone,49.0,pg/mL,< OR = 39,Quest
-12/22/16,Estradiol,Main female sex hormone,49.0,pg/mL,< OR = 39,Quest
 12/22/16,FSH,Follicle-stimulating hormone,3.4,mIU/mL,1.6-8.0,Quest
 12/22/16,FSH,Follicle-stimulating hormone,3.4,mIU/mL,1.6-8.0,Quest
 12/22/16,Ferritin,Iron storage protein,82.0,ng/mL,20-345,Quest
@@ -690,8 +680,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 12/5/17,EPA:AA Ratio,"Ratio of two fatty acids ",0.3,,0.2 OR LESS,Quest
 12/5/17,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,2.2,%,0.2-1.5,Quest
 12/5/17,Eosinophil (absolute),Calculation of WBC type,0.141,x10E3/?L,15-500,Quest
-12/5/17,Estradiol,Main female sex hormone,50.0,pg/mL,< OR = 39,Quest
-12/5/17,Estradiol,Main female sex hormone,50.0,pg/mL,< OR = 39,Quest
 12/5/17,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
 12/5/17,FSH,Follicle-stimulating hormone,2.7,mIU/mL,1.6-8.0,Quest
 12/5/17,Ferritin,Iron storage protein,36.0,ng/mL,20-345,Quest
@@ -816,8 +804,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 6/27/18,EPA:AA Ratio,"Ratio of two fatty acids ",0.1,,0.2 OR LESS,Quest
 6/27/18,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,1.1,%,0.2-1.5,Quest
 6/27/18,Eosinophil (absolute),Calculation of WBC type,0.121,x10E3/?L,15-500,Quest
-6/27/18,Estradiol,Main female sex hormone,46.0,pg/mL,< OR = 39,Quest
-6/27/18,Estradiol,Main female sex hormone,46.0,pg/mL,< OR = 39,Quest
 6/27/18,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
 6/27/18,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
 6/27/18,Ferritin,Iron storage protein,87.0,ng/mL,20-380,Quest
@@ -945,8 +931,6 @@ Draw Date,Marker Name,Marker Description,Value,Units,Reference Range,Source
 1/21/19,EPA:AA Ratio,"Ratio of two fatty acids ",0.2,,0.2 OR LESS,Quest
 1/21/19,Eicosapentaenoic acid (EPA),Omega-3 fatty acid,2.9,%,0.2-1.5,Quest
 1/21/19,Eosinophil (absolute),Calculation of WBC type,0.1,x10E3/?L,15-500,Quest
-1/21/19,Estradiol,Main female sex hormone,57.0,pg/mL,< OR = 39,Quest
-1/21/19,Estradiol,Main female sex hormone,57.0,pg/mL,< OR = 39,Quest
 1/21/19,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
 1/21/19,FSH,Follicle-stimulating hormone,3.1,mIU/mL,1.6-8.0,Quest
 1/21/19,Ferritin,Iron storage protein,109.0,ng/mL,20-380,Quest
